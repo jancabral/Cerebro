@@ -1,0 +1,2874 @@
+RAMAIS
+
+- TI OPERAÇÕES        2123/2225 Acesso, falar com Rodrigo Cruz
+
+- GEILSON             1948           TI OPERAÇÕES
+- LOGISTICA           2147			misael, victor frança,
+Ramais
+raniere nascimento 	   2101 auditoria ou 195 conagem.
+rodrigo cruz, Jeison Acessos    2225 acesso ao portal BI
+	  TI Operações	   2123
+Tiberio e jamesson     1895
+Luiz				   1885
+Andre	   			   1491 ou 1891	
+Jose augusto 		   2033 Contabilidade
+EDEM 				   2033 LIGAR PARA VER SOBRE O XML
+felipe santana 		   1947 cadastro de produtos ou fernanda
+Bergue ou milton       1888
+cris 				   2124	   cadastro de clientes
+Patricia               8637
+allan araujo 		   1953 RMA
+NOLL
+Cadastro de clientes   2020
+valkiria 			   1942  cadastro de cliente B2C
+ROMILSON BEZERRA 			 CADASTRO DE FUNCIONARIOS SAP
+Munique Lima		   2196  Financeiro cod portador
+ 
+					   
+http://www.nagem.online.com.br/artigos/listar/area/7  
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+LIMPAR DADOS DE LOGIN DO CONAGEM:
+
+0000 parado
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+- RODRIGO FIRMINO - ACESSO P/ SOFTEXPERT
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+CADASTRO DE CLIENTE - 2227 - RITA PIRES
+CADASTRO DE CLIENTES B2C - 1942 - VALQUÍRIA
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+RAMAIS NOVOS:
+
+ANDRÉ     - 1491
+NADIA     - 1484
+RPA 	  - 1492
+PROCESSOS - 1484 - KARLA BUARQUE
+CONTATO 2121-2183 Anderson - TI OPERAÇÕES
+
+Ramal funcionário home:
+
+- flash *01 - liga
+
+- flash *02 - desliga
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+- Cloud BRASIL - Renato Oliveira - TI Operações
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+- LUZINALDO - CONTABILIDADE
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+VENDA PRESA NO PDV
+
+Função 127 - Envia log para rede e coloca PDV online novamente
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+SONICWALL
+https://10.1.0.6:4443/auth.html
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+ACOMPANHAMENTO VISUALMIX
+http://173.249.12.202/
+Login: nagem
+Senha: 183127
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+senha SINAGEM
+r405@!b
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+
+CONSULTA NFCE: https://www.nfe.fazenda.gov.br/portal/consultaResumo.aspx?tipoConteudo=d09fwabTnLk=
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+Samsung:
+
+Login:luizneto.samsung01
+
+Senha:samsung2021@!
+
+ 
+
+Motorola:
+
+Login:luizneto.motorola12
+
+Senha:motorola2021@!
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+ESTORNO DE NOTA FISCAL
+
+PARA NOTA DE ENTRADA OS DADOS ESTÃO NA TABELA (CONOTD01)
+SE O IDFCLIFNC = F (FORNECEDOR)A NOTA PODE SER ESTORNADA NA COPED270 DO CONAGEM
+COLOCAR O NÚMERO DA NOTA A DATA (DATEMS) E O CÓDIGO DO FORNECEDOR (CODFNC)
+
+TABELA DE FORNECEDOR 
+
+SELECT *
+FROM COFNCD00
+WHERE 1=1
+ AND CODFNC = '000051'
+;
+
+COPED165 DEVOLUÇÃO DE MERCADORIA
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+Teamviewer da Interface do WMS Winthor
+
+TW: 1231278336
+PW: sup0rtn@g3m
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+SENHA;WIFI;SONICWALL
+senha PAS para wifi
+
+s@pt3st3
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+MÓDULOS DO CONAGEM
+
+COTABA90 - SIMULAÇÃO DE FRETE
+
+---------------------------------------------------
+
+senha lojas samsung/motorola
+teamviewer
+nagem@!
+
+---------------------------------------------------
+SENHA SUPORTE PARA 
+sup0rtn@g3m
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+Senha para liberação das pastas:
+
+DSVNAGEM - Todas as letras maiúsculas.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+CONSULTAR SE O PRODUTO ESTÁ DISPONÍVEL PARA A MORALIDADE DE VENDA QUE O SOLICITANTE ESTÁ TENTANDO REALIZAR
+
+COCAD510 - ESSA CONSULTA SÓ PODE SER REALIZADA NA MATRIZ 0001
+
+CASO NÃO ESTEJA DISPONÍVEL, ORIENTAR AO SOLICITATE PARA ENTRAR EM CONTATO COM A EQUIPE DE CADASTRO.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+* TI NÃO FAZ O CANCELAMENTO DE NOTA QUEM CANCELA O CUPOM É O GERENTE DE LOJA OU A REGIONAL
+
+* PARA CORRIGIR O SALDO DE RESERVA DEVEMOS RODAR O TINAGEM
+
+* SE DER O ERRO (((ACCESS VIOLATION))) - PRIMEIRAMENTE CONSULTAMOS SE O CLIENTE TEM O TIPO CADASTRADO NA 
+TABELA: COCLID01, CAMPO: CODTPOCLI;
+  PODEMOS CONSULTAR OS TIPOS NA COCLID02 COM ESSE MESMO CAMPO.
+ 
+* PARA VENDA ENTRE LOJAS É GERADO UM PEDIDO, O PEDIDO É FATURADO NO CONAGEM (COPED122) E GERA UMA NOTA FISCAL
+
+* 001954 - O NÚMERO DO PEDIDO, TEM QUE TIRAR O ANO NO FINAL '20' E ACRESCENTAR ZERO A ESQUERDA PARA COMPLETAR OS 6 DÍGITOS 
+  O PEDIDO TEM 6 DÍGITOS.
+
+* VENDAS ENTRE CD'S GERA UMA DAV.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+FORMA DE PAGAMENTO NÃO ENCONTRADA.
+
+CONSULTAR NA CONOTD00 PARA SABER SE TEM SALDO NA LOJA.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+NÚMERO DA NOTA (PROCEDIMENTO PARA NOTAS FISCAIS)
+
+RECIFE - U01...... PARA SOMAR 6 DÍGITOS + ZERO A ESQUERDA DO NÚMERO DA NOTA
+PDV    - U15...... PARA SOMAR 6 DÍGITOS + ZERO A ESQUERDA DO NÚMERO DA NOTA
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+- PROCEDIMENTO PARA SALDO DE PRODUTOS PRESOS
+
+- Consulta na tabela COPRDD05 para ver a quantidade de produtos reservados;
+
+- Consulta na tabela COLOGD01 para saber com quais vendedores estão os produtos;
+
+- Para confirmar o nome do vendedor é na tabela GRUSRD00 com o código IDFUSR;
+
+- Confirmar a quantidade de produtos reservados para ver se estão batendo com as informações passadas pelo solicitante;
+
+- Dá um DELETE na tabela COLOGD01 para excluir os logs relacionados ao vendedor;
+
+- Rodar o TINAGEM;
+
+- CONSULTAR NA TABELA COPRDD05 PARA SABER SE LIBERARAM AS RESERVAS;
+
+- CASO NÃO;
+
+- DEVE RODAR "UPDATE COPRDD05 SET SLDRSVCLI = SLDRSVCLI - 2" (DEVE SUBITRAIR A QUANTIDADE DE RESERVAS INFORMADAS NO TICKET).
+
+QUERYS PARA CONSULTA:
+
+SELECT *
+FROM COPRDD05
+WHERE 1=1
+ AND IDFEMP = '0003'
+  AND CODPRD = '514411'
+;
+SELECT *
+FROM COLOGD01
+WHERE 1=1
+ AND IDFEMP = '0003'
+ AND CODPRD = '514411'
+
+
+Para vendas efetuadas e os produtos não saíram do estoque: Verificar integração de cupons - NAG0001
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+ 
+RETIRAR O SERIAL ABAIXO DO SALDO DE DEPOSITO.
+
+(PARA ESSE PROCEDIMENTO, ORIENTAR O CLIENTE A ENTRAR EM CONTATO COM A AUDITORIA)
+
+NUMERO DE SERIE - 35761906456474"
+
+- PROCEDIMENTO PARA SOLICITANTES DA ÁREA TÉCNICA
+- Para resolução do problema excluímos a linha do serial da tabela SOSERD01
+
+SELECT *
+FROM COSERD01
+--DELETE FROM COSERD01
+WHERE 1=1
+ AND NUMSER = '35761906456474'
+;
+
+OBS: ESSA EXCLUSÃO É SO PARA RETIRADA DO NUMERO DE SERIE, O VALOR DO SALDO DEPOSITO PERMATECE O MESMO NO CONAGEM.
+
+- SEMPRE ANTES DE DELETAR O NÚMERO DE SÉRIE VERIFICAR NA CONOTD0E PARA VER SE TEM UMA NOTA DE ENTRADA OU SAÍDA. 
+
+- NA COLUNA IDFDBRCRD, SE FOR 2 É UMA SAÍDA, E SE FOR 1 É UMA ENTRADA.
+ 
+- NO CASO DE UMA SAÍDA, DEVE VER A NOTA FISCAL, A DATA, E CONFIRMAR SE BATEM COM AS INFORMAÇÕES DO CHAMADO.
+
+- DELETAR DA COSERD01, SE TUDO ESTIVER NORMAL, E BATER COM O QUE ESTIVER NO CHAMADO, DELETAR A LINHA CONSULTADA DA TABELA COSERD01
+
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+TABELAS:
+
+COPEDD02 - Pedidos a Fornecedor
+CONOTDOO - Movimento de Notas - Saída MOVIMENTO DE NOTAS - SAIDA
+COTABD0A - TABELA DE CÓDIGO DAS CIDADE E ESTADOS
+COVEDD00 - Consultar os Códigos
+COSERD01 - SITUACAO POR NÚMERO DE SERIE
+COPEDD08 - PEDIDOS DEVOL/REMESSA - MASTER
+COPEDD09 - PEDIDOS DEVOL/REMESSA - ITENS
+CONOTD0H - SALDO DE PRODUTOS P/NOTA FISC
+COSERD01 - SITUACAO POR NUMERO DE SERIE
+COPEDD04 - ITENS DE KIT'S DO PEDIDO
+COPRDD0C - TAB KITS DE PRODUTOS - ITENS
+COPRDD06 - TABELA DE PRODUTOS COMPOSTOS (CONSULTAR AGREGADOS)
+
+COPTOD0A --CONSULTAR A FORMA DE PAGAMENTO
+COPTOD0B --DETALHES DA FORMA DE PAGAMENTO
+
+CONOTD07 --ITENS DA NOTA DE ENTRADA
+COFICD04 --CABEÇALHO DO PEDIDO DA NOTA DE ENTRADA
+COFICD05 --ITENS DO PEDIDO DA NOTA DE ENTRADA
+COPRDD24 --AUTERAÇÃO NO VALOR DO PRODUTO
+
+
+
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+TELAS DO CONAGEM:
+
+COPED122
+COPED121
+COPED381
+COPED383
+COPED130
+COPED3A7 - TELA PARA CONSULTA/IMPRESSÃO DE DAV
+COPED382 - INUTILIZAÇÃO DE DANFE NF-E NO CONAGEM
+COPED3AA - VENDA DE CARTÃO INCOMM
+COPED3A9 - AUTORIZAÇÃO
+COPED3A6
+COCAD510 - ESSA CONSULTA SÓ PODE SER REALIZADA NA MATRIZ 0001
+COPED351 - fazer a impressão ou a re-impressão da garantia
+COUTL540 - CONSULTAR USUÁRIOS E ACESSO (USUÁRIOS COM ACESSO)
+COCAD310 - MANUTENÇÃO DE CADASTRO DE VENDEDORES
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+(02)
+SOLICITAÇÃO DO CLIENTE:
+
+CancelamentoS antes da venda que não foram contabilizados para esse produto, sendo assim nosso saldo loja ficou com -2 unidades desse produto.
+
+- Para saber se um cupom esta cancelado na tabela ST_CUPOM
+
+- Verificar se a campo NUM_DOC está preenchido, se não estiver, copie o código EVENT0_CUPOM.
+
+- Consultar na tabela COPRDD02 o EVENTO_CUPOM e concatenar com 'P' + NÚMERO DO PDV + ZEROS À ESQUERDA (se o código tiver menos do que 6   dígitos) + NÚMERO DO CUPOM QUE ESTÁ NO CAMPO (EVENTO_CUPOM).
+
+- TEM QUE TÁ O EVENTO ('90', '97'). CASO SÓ TENHA O EVENTO 90, DEVEMOS VOLTAR NA TEBELA 'ST_CUPOM' E COPIAR O UPDATE DO CAMPO UDP PARA COMENTÁ-LO NA ÁREA DE CÓDIGO E EM SEGUIDA EXECUTAR.
+  DEVEMOS AGUARDAR A INTEGRAÇÃO E OBSERVAR O CAMPO STATUS_REGISTRO ATÉ MUDAR O STATUS DO CAMPO PARA NP, DEPOIS MUDAMOS NO UPDATE DE 'NP' PARA 'DR' E FAZEMOS A CONSULTA NOVAMENTE NA TABELA COPRDD02 PARA SABER SE LÁ JÁ TEM DOIS EVENTOS, UM CODHSTTRA ('90','97').
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+(03)
+Olá, o chamado 0070491 - Cupom integrado, poderia validar por favor. .
+
+- Para fazer a verificação. peguei o número do cupom que estava no histórico do chamado.
+- Fiz a consulta na query - Verifica integração de cupons NAG0001 no campo STATUS_REGISTRO, antes estava com o STATUS (NP), mas depois do ajuste ficou com o STATUS (PR)
+- Fizemos a consulta na QUERY VM LOG CUPOM - NAG0001 NO CAMPO CODSTATRETNFE E ESTAVA COM (100,102)
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+(04)
+SQL23 - NAG0001
+
+Script para ser usado na abertura da operação de Delivery nas LOjas (Inicializar o contador de Movimento de Caixa)
+
+TIBÉRIO VAI MOSTRAR COMO REALIZAR O PROCEDIMENTO.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+- PARA SABER SE A NOTA FISCAL FOI TRANSMITIDA É NA TABELA CANOTD0M NO CAMPO STAPRE = 100
+
+- PARA FAZER A CONSULTA PEGAMOS O NÚMERO DO CUPOM COM A QUERY 
+
+ SELECT *
+FROM COPEDD00 --CABEÇALHO DO PEDIDO
+WHERE 1=1
+   AND NUMPED = '006741'
+   AND IDFEMP = '0105'
+;
+
+- E EM SEGUIDA LANÇAMOS O DADO DO CAMPO NOTFIC QUE É O NÚMERO DA NOTA FISCAL NA TABELA CONOTDOM 
+
+SELECT *
+FROM CONOTD0M --CONTROLE DE NOTAS ELETRONICAS
+WHERE 1=1
+   AND NOTFIC = 'U01005719'
+   AND IDFEMP = '0105
+;
+
+CONSULTAMOS O CAMPO STAPRE = 100 (NOTA FISCAL TRANSMITIDA)
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+ERRO NO REGISTRO DO CUPOM - NP
+
+Boa tarde!
+
+Gostaria de saber se tem alguma pendência de baixa no sistema, referente aos itens:
+452670 = HDD EXT.1,0 TB BR USB 3.0 IMP. (Faltou 01 unidade)
+Na contagem do movimentado do dia 28/11, estava em conformidade.
+
+Consulta com o número do ITEM no VISUALSTORE - Deve colocar a data que o solicitante fez a ultima verificação no campo
+Pegar o número do cupom e consultar na ST-Cupom - EVENTO_CUPOM
+Pegar o NUMDOC_1 e consultar na tabela COPEDD02, para saber se os cupons foram processados.
+
+OBS: Neste caso fizemos a consulta no VISUALSTUDIO e com os números dos cupons em mãos, 
+identificanos na tabela ST_CUPOM  que os cupons não tinham sido processados porque o valor era maior
+do que 1000.00 e na nota não tinha o CPF do cliente cadastrado.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+Quando o setor de compras altera o valor de um produto, o novo valor só ficará disponível no CONAGEM no dia seguinte (D + 1)
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+Extorno de NF de entrada
+
+Consultar na CONOTD01 para ter acesso aos dados da nota
+
+-----------------------------------------------------
+CONOTD0E - NÚMERO DE SÉRIE DA NF
+
+
+-----------------------------------------------------
+
+COSERD01 localização do número de série d produto na loja. Ele mostra se o produto está na loja ou no estoque.
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+VITÓRIA 0105 (VIX) - QUANDO CHEGAR O TICKET FALAR COM FERNANDO, JAMESON OU ROMÁRIO - ERRO DE ICMS 
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+CLIENTE NÃO EXISTE
+
+A MENSAGEM APARECE NA PILHA DE ERRO E O PROBLEMA FOI RESOLVIDO.
+
+- EXECUTAR O EXPORTA SAP
+- COLOQUEI O CÓDIGO DO CLIENTE NO CAMPO CodCliFnc
+- E CLIQUEI EM EXPORTAR PESSOA 
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+NÃO CONSEGUE FATURAR
+
+ERRO: 
+
+SQL ((((trigger)))) COPRDT54 in NAG0001 failed with SQLCODE -438 SQLSTATE 7500
+FAT000011
+Ult.Lin.Erro: FAT000011
+
+O PROBLEMA FOI RESOLVIDO RODANDO O TI NAGEM
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+Gostaria de saber se tem alguma pendência de baixa no sistema,
+
+- FIZEMOS A CONSULTA NA QUERY - Verifica integração de cupom - NAG0001
+- FIZEMOS A CONSULTA PELO MÊS INTEIRO QUE O CLIENTE FALOU.
+- ENCONTRAMOS DOIS CUPONS COM (NP)
+- IDENTIFICAMOS O O CÓDICO DE ERRO NO CAMPO -------
+- FIZEMOS A PESQUISA NO GOOGLE COM O CÓDIGO DE ERRO: RETORNO DE ERRO NO SEFAZ.
+- NA OCASIÃO ESTAVA FALTANDO O NÚMERO DO CPF NO CADASTRO DO CLIENTE.
+- LIGAMOS PARA O OPERADOR RESPONSÁVEL PELO CHAMADO E PEDIMOS QUE O MESMO INFORMASSE O CPF DO CLIENTE FINAL
+- COM O CPF EM MÃOS 
+- PODEMOS ENCAMINHAR PARA O ATENDIMENTO DO VISUALMIX.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+PARA NOTAS FISCAIS:
+
+QUERY PARA CONSULTAR DO VALOR DO ICMS DIVERGENTE ENTRE (((OS ITENS E O CABEÇALHO DA NOTA)))
+
+--Aqui realizamos a somatÓria do campo VALICM, se o total for < que o total do VALICM da tabela COPEDD00,
+--Faça a divisão do campo VALITE pelo valor do campo ALQICM, formula: VALITE / ALQICM = VALICM
+--Se o resultado for diferente do atual do campo VALICM, aplique um UPDATE para o valor de VALITE / ALQICM = VALICM para o item
+--O VALOR DO VALBSECAC TEM QUE SER IGUAL AO VALOR QUE ESTA NO CAMPO VALITE POIS ELE E O CAMPO QUE FAZ O CALCULO DA QUANTIDADE DE ITENS.
+
+ALICOTA/100 * BASEDECALCULO
+SELECT *
+FROM COPEDD01
+--UPDATE COPEDD01 SET VALICM = 182.26
+--UPDATE COPEDD01 SET VALBSECAC = 8552.87
+WHERE 1=1
+      AND IDFEMP= '0105'
+      AND NUMPED = '007875'
+      AND ANO = 21
+
+--VALORES ANTIGOS:
+--AND VALBSECAC = 88423.31
+-- AND VALICM = 157.62
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+GARANTIA ESTENDIDA
+
+SOLUÇÃO: ENTRAR EM CONTATO COM O SERVIÇO FINANCEIRO.
+
+Segue solicitação de garantia estendida para a cliente :
+
+461324 Cláudia Adriana Cavalcanti Gadelha de Albuquerque
+
+CPF 68889534400
+RG 3224902SDS
+DATA DA COMPRA; 30/07/2016
+LOJA ; NAGEM SHOPPING RECIFE
+VALOR DA COMPRA; 4.444,44
+PRODUTO MARCA E MODELO TV LED 55´´SMART 4K UH6150 LH IMEI/
+NÚMERO DE SÉRIE DO PRODUTO 5155U605DB8Y8981324021
+
+
+AS LOJAS 014 E 089 NÃO TEM ACESSO A ESSE DOCUMENTO
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+VALOR DO ICMS DIVERGENTE DO SOMATÓRIO DOS ITENS
+
+- VERIFICAMOS NO CONAGEM NO MÓDULO COPED381 - TRANSMISSÃO DE NF E PENDENTES/REJEITADAS
+  NESSE MÓDULO ENCONTRAMOS A NOTA COM O PROBLEMA DE TRANSMISSÃO
+
+- O PROCEDIMENTO FOI TRATADO COM A QUERY ICMS TRANSMISSÃO - NAG0001
+
+- EXECUTAMOS O PRIMEIRO SELECT DA QUERY (COM A WHERE)
+- COM O NÚMERO DO CUPOM E OS DEMAIS DADOS
+- CONFIRMADO QUE OS VALORES ESTAVAM DIVERGENTES
+- CONFIRMADO QUE OS VALORES ESTAVAM DIBERGENTES, 
+- RODAMOS AS DUAS QUERYS DE UPDATE INDIVIDUALMENTE PARA AJUSTAR O VALOR.
+- VOLTAMOS AO CONAGEM E ACESSAMOS NOVAMENTE O MÓDULO COPED381 
+- EXECUTAMOS A TRANSMISSÃO DA NOTA E FUNCIONOU NORMALMENTE.
+
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+Midiam Moama 1692 TI03000852 Caso tratado por Tibério
+
+Desc: Erro Baixando Documento no SAP. Contate o Setor de TI.
+
+Houve um erro na baixa do documento no SAP. Mensagem: Erro ao baixar lançamento. 
+Baixa: 
+Sequencial de Lancamento: 360087
+Tipo Operação: 03
+Tipo Documento: DZ
+IdfEmp: 0033
+Referência: NFS U01011846
+Data Emissão: 20201023
+Pessoa: C0016728628
+NSU: LJA#
+RO: 
+Texto Lançamento: Baixa Venda Com Fatura Em CD
+.
+Mensagem: Erro ao exportar Lancamento. Mensagem: Conta
+Ult.Lin.Erro: 
+Componente atual: fCXCXA700D.btConfirmar
+Versão:
+Sistema de Recebimento Nagem V2.1 (Build 15 - Revision 11639) ( 30/04/2020 14:16 - IP:192.168.33.73 )
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+NÃO CONSEGUE TRANSMITIR A NOTA
+
+NOTA NÃO TRANSMITIDA
+
+1- DEVEMOS CONSULTAR O CADASTRO DO CLIENTE NO CONAGEM
+- CAMINHO DO CONAGEM PARA REALIZAR O PROCEDIMENTO.
+	1 - CADASTRO
+	2 - CLIENTE
+	3 - CLIENTE
+- COLOCAR O CÓDIGO DO CLIENTE
+	- VERIFICAR SE OS DADOS CADASTRAIS DO CLIENTE ESTÃO CORRETOS NO SISTEMA.
+	OBS: A ALTERAÇÃO DOS DADOS CADASTRAIS DO CLIENTE FINAL NÃO DEVE SER INFORMADA PARA O CLIENTE DE LOJA.
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+--INCLUIR SALDO DOS PRODUTOS:
+
+SELECT *
+FROM COPRDD00
+--UPDATE COPRDD00 SET  SLDATU = SLDATU - 13, SLDDPO = 13
+WHERE 1=1
+ AND IDFEMP = '0005'
+ AND CODPRD = '519596'
+;
+SELECT * --ESTE PRODUTO ESTAVA COM 5 UNIDADES EM SALDO BRAND.
+FROM COPRDD05
+--UPDATE COPRDD05 SET  SLDRSVCLI = SLDRSVCLI + 5, SLDRSVBSH = SLDRSVBSH + 5
+WHERE 1=1
+      AND IDFEMP = '0005'
+      AND CODPRD = '519596'
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+RITA PIREZ - CORREÇÃO DE CADASTRO INCOMPLETO
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+CONSULTAR PARA SABER MAIS SOBRE ESSE TIPO DE CONSULTA: CCC RS
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+PRODUTO PRESO - DEVEMOS IR NA QUERY = AJUSTE SALDO PRODUTO PRESO - NAG0001
+
+COPRDD05
+COLOGD01
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+esc: erro ao processar recebimento !
+
+Produto "520900" exige número de série na entrada e ainda não foi importado nem conferido.
+Favor entrar em contato com Supply Chain.
+Ult.Lin.Erro: 
+Componente atual: fCOPED240.btnGravar
+------------------------------------
+Pilha do erro: 
+
+ORIENTADO O CLIENTE A FALAR  A LOGÍSTICA FORNECEDORA
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+
+Comprou a primeira vez no cd e foi cancelada
+Imprimir o cupom - 
+
+Gerar uma nova venda e bater como troca
+
+
+-- ERRO 750 para o EVENTO_CUPOM 112374
+
+Wiviane . COPED122
+
+520012
+
+--=====
+
+COCNS130 PARA CONSULTAR AS RESERVAS DO PRODUTO EM LOJA
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+RELATÓRIO CARTÕES  01/12/20 REDE VISA CREDITO NÃO ESTÁ BATENDO COM ESPELHO CAIXA.
+VALOR PASSADO NOS PDV´S R$ 7.0573,33,POREM NO REL SINTEF  CARTÕES O VALAR ESTÁ R$ 7026,21.
+NO AGUADO DA CORREÇÃO PARA INCLUIR CAIXA NO CLOUD.
+GRATO..
+
+RESPOSTA:
+Boa tarde,
+
+Por favor, abrir chamado para o TI Operações.
+
+Qualquer dúvida, estamos à disposição
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+PED110 COBRANÇA DE ICMS SUBSTITUTO
+
+- PARA CLIENTES CNPJ É COBRADA A TAXA DE ICMS SUBSTITUTO.
+- SE A VENDA FOR PARA CLIENTES FISICOS NÃO COBRA A TAXA.
+- SE A VENDA FOR REALIZADA NA MODALIDADE NFC-e PARA CONSUMIDOR FINAL
+DIRETAMENTE NO CAIXA DA LOJA, NÃO COBRA ESSE TIPO DE SERVIÇO PARA AMBOS OS TIPOS
+DE CLIENTES.
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+169 DATA NFE
+ERRO AO TENTAR IMPRIMIR NF - ERRO XML
+
+SELECT *
+FROM CONOTD0M
+--UPDATE CONOTD0M SET  STAPRE = '215'
+WHERE 1=1
+ AND IDFEMP = '0094' 
+ AND DATEMS = '20201202' 
+ AND NOTFIC = 'U01004361'
+ 
+-- TRANSMITIR A NOTA NA TELA COPED381 DUAS VEZES OBS: A PRIMEIRA VAI DAR ERRO
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+ NF com critica , erro 502.Erro na chave de acesso.
+
+SELECT *
+FROM CONOTD0M
+--UPDATE CONOTD0M SET CHVACS = ''--(CHAVE DA NOTA), XMLENVCLI = NULL, STAPRE = 105				  
+WHERE 1=1
+	AND IDFEMP = '0004'
+	AND NOTFIC = 'U01042461'
+  
+DEPOIS, TRANSMITIR A NOTA NA PED381 (Nas primeiras tentativas vão dar erro)
+ 
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Transmissão de nota para clientes B2C:
+cliente não encontrado
+CLIENTE NÃO ENCONTRADO
+ERRO COM CADASTRO DE CLIENTE B2C
+
+/*
+1-CHECA O PEDIDO E PEGA O CAMPO CODGRLCON NA TABELA COPEDD0D
+2-CONSULTA A TABELA COCLID0F E PEGA O CÓDIGO DO CLIENTE USANDO A INFORMAÇÃO DO CAMPO CODGRLCON DA TABELA COPEDD0D
+3-CONSULTA A TABELA COCLID0B USANDO O CÓDIGO DO CLIENTE E VERIFICA SE O CAMPO SQCEND ESTÁ = AO CAMPO SQCEND DA TABELA COPEDD0D
+4-VERIFICAR SE JÁ EXISTE O CAMPO SQCEND = 0 NA TABELA COCLID0B ((((SE TIVER FALAR COM JAMESSON)))
+5-DÁ UM UPADATE NO SQCEND NA TABELA COOEDD0D E COCLID0B PARA = 0
+*/
+
+SELECT *
+FROM COPEDD0D
+--UPDATE COPEDD0D SET  SQCEND = 0
+WHERE 1=1
+AND NUMPED = '058955' 
+AND IDFEMP = '0001'
+
+;
+SELECT *
+FROM COCLID0B
+--UPDATE COCLID0B SET  SQCEND = 0
+WHERE 1=1
+ AND CODCLI = '0259F9'
+  AND SQCEND = 6
+  
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+CUPOM COM ERRO ER NA ST_CUPOM - OBS: PARA CUPONS QUE NÃO FORAM CANCELADOS SÓ FORAM VENDAS
+
+VERIFICAR NA VM_LOG.C100 SE O CUPOM ESTÁ COM O CAMPO CODSTATRETNFE COM 100
+CONSULTAR SE O CUPOM ESTÁ NA COPRDD02 COM O CAMPO CODHSTTRA COM STATUS 90
+SE O CUPOM ESTIVER NA VM_LOG.C100 E ESTIVER COM ERRO NA ST_CUPOM, DEVE RODAR O UPDATE QUE ESTÁ NA CONSULTA DA ST_CUPOM
+SE O CUPOM ESTIVER COM ERRO NA ST_CUPOM E NÃO ESTIVER NA VM_LOG.C100 DEVESSE ENCAMINHAR UM EMAIL PARA ABERTURA DE CHAMADO NA VISUALMIX
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+"A nota 117 emitida no dia 03/10/2020, produto 336076. Precisamos devolver essa nota para cancelamento porém ela consta como sem saldo para devolver,
+ porém essa nota ainda não foi devolvida e o produto ainda consta como sobra no meu estoque."
+
+Cópiar e anotar o código da empresa antes da alteração seguinte;
+Para tratar, damos um UPDATE no campo IDFEMP para empresa ficar X111 e depois que o solicitante realizar o procedimento. Devolvemos o campo para o valor anterior.
+OBS: esse problema acontece porque tem duas notas com os mesmos dados que o processo consulta, neste caso, mudamos o número dá empresa da nota que não deve ser consultada,
+para ficar só com uma nota visível, e assim o solicitante conseguir realizar o procedimento.
+
+SELECT *
+FROM CONOTD00
+--UPDATE CONOTD00 SET IDFEMP = 'X111'
+--UPDATE CONOTD00 SET IDFEMP = '0111'
+WHERE 1=1
+ AND NOTFIC = 'U01000117'
+  AND IDFEMP = '0111'
+  -- AND DATEMS = '20200910'
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+QUANDO ESTORNAMOS UM CUPOM É RETIRADO DO SAP AS INFORMAÇÕES DA VENDA DO MESMO, DEVEMOS ALTERAR O CUPOM PARA NP NA ST_CUPOM PARA O MESMO SER REPROCESSADO, PARA ASSIM O SISTEMA INCLUIR NOVAMENTE AS INFORMAÇÕES DO CUPOM NAS TABELAS.
+DEVEMOS CONSULTAR NA COPRDD02 NO CASO DE CUPOM CANCELADO PARA SABER SE ELE ESTÁ  COM OS CÓDIGOS '90','97' NO CAMPO CODHSTTRA.
+SE O CAMPO CODHSTTRA ESTIVER COM '90','97', APOS O UPDATE DISPONIBILIZADO NA TABELA ST_CUPOM MAS O CAMPO SATUS_REGISTRO ESTIVER COM ER, PODEMOS MUDAR PARA 'PR', PORQUE O CUPOM JÁ FOI REGISTRADO.
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+COTABD01 TABELA PARA CONSULTAR OS STATUS DO CAMPO CODHSTTRA DA TABELA COPRDD02
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+O que é Recibo Provisório de Serviços (RPS)?
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+SOLTAR O PRODUTO PRESO NO CADASTRO DO VENDEDOR
+SE SÓ ESTIVER NA D05 RODASR O TINAGEM
+COPRDD05
+COLOGD01
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Desc: 
+Nota Fiscal não transmitida
+
+Field 'PRCVEN' not found
+Ult.Lin.Erro: 
+------------------------------------
+Pilha do erro: 
+
+Tratar juntamente com JAMESSON/ROMÁRIO
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+PARA CONSULTAR O CPF DO CLIENTE COM O NÚMERO DA DAV
+
+É NECESSÁRIO CONSULTAR O NÚMERO DA DAV PELO PDF DO CUPOM NO VISUAL STORE
+
+ SELECT *
+FROM CODAVD03
+WHERE 1=1
+ AND IDFEMP = '0089' 
+  AND NUMDAV = '066056'
+  
+ ;
+ SELECT *
+FROM CODAVD00
+WHERE 1=1
+ AND IDFEMP = '0089'
+ AND NUMPED = '065742';
+ 
+ 
+ SELECT *
+FROM COCLID01
+WHERE 1=1
+ AND CODCLI = '11D4A1';
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+PRICILA DIAS 94
+15200224073694009454550010000033101000033103
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Notafiscal não transmitida
+COPED382 - INUTILIZAÇÃO DE nota
+depois de realizar o procedimento no COPED382 
+RODAR O UPDATE A SEGUIR:
+
+ SELECT *
+FROM COPDVD00
+--UPDATE COPDVD00 SET  DATEMS = '', NOTFIC = ''
+WHERE 1=1
+ AND IDFEMP = '0094'
+ --AND NUMDOCFIC = '003310'
+  AND NOTFIC = 'U01003310'
+  
+----------------------------------------------
+---------------------------------------------- 
+----------------------------------------------
+
+-- MILTON (EM CONSTRUÇÃO)
+  BOm dia,
+
+    Favor verificar a nota 545.143 ao tentar transmitir apresenta a seguinte informação:
+
+533 - Total da BC ICMS-ST difere do somatório dos itens
+
+ICMS-ST = CONOTD00-BSEICMSBT
+
+
+Base do ICMS Inter = (Valor do produto + Frete + Seguro + Outras Despesas Acessórias - Descontos) ...
+
+Valor do ICMS Inter = Base ICMS Inter * (Alíquota ICMS Inter / 100) ...
+
+Base do ICMS ST = (Valor do produto + Valor do IPI + Frete + Seguro + Outras Despesas Acessórias - Descontos) * (1+(%MVA / 100))
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+INCLUSÃO DE SALDO DE ITEM:
+
+
+/*DEVE SUBTRAIR A QUANTIDADE DE ITENS DE ACORDO COM A SOLICITAÇÃO DO CLIENTE
+IR NA TABELA CONOTD06 E SUBTRAIR DO CAMPO QTDITE A QUANTIDADE SOLICITADA
+
+SELECT *
+FROM CONOTD06
+--UPDATE CONOTD06 SET  QTDITE = QTDITE - 3
+WHERE 1=1
+ AND IDFEMP = '0001'
+  AND NOTFIC = 'U01568933'
+;
+
+SELECT *
+FROM CONOTD00
+--UPDATE CONOTD00 SET STANOTFIC = 'P'
+WHERE 1=1
+ AND IDFEMP = '0001'
+  AND NOTFIC = 'U01568933'
+  ;
+SEMPRE CHEGAR A QUANTIDADE DO ITEN NA TABELA 
+COPRDD02 PELA NOTA E LOJA E SUBITRAIR A QUANTIDADE QUE ESTA NO CHAMADO DA QUANTIDADE DO ITEM QUE ESTA NA TABELA.
+
+---------------------------------------------- OUTRA SITUACAO
+
+PARA O PROCESSO DE DEVOLUÇÃO;
+
+CASO O SOLICITANTE ESTEJA TENTANDO DEVOLVER UMA NOTA E AO CONSULTAR NA CONOTD00, A MESMA ESTEJA COM O STANOTFIC 'V' E O CODFIC 5929,]
+SE TRATA DE UMA DANFE QUE ESTÁ RELACIONADA A UM CUPOM.
+
+PARA LOCALIZAR O NÚMERO DO CUPOM, COPDVD00 COM FILTRO DA IDFEMP E NOTFIC, LOCALIZAMOS O NUMDOCFIC
+
+O NUMDOCFIC É O CUPOM QUE DEVE SER DEVOLVIDO
+
+PEDIR PARA O SOLICITANTE CONSULTAR OS ITENS ANTES DE DEVOLVER NA TELA COPED165 (SOLICITAÇÃO DE DEVOLUÇÃO DE LOJA)
+
+TABELAS IMPORTANTES:
+
+SELECT * --CONSULTAR A DANFE
+FROM CONOTD00
+WHERE 1=1
+AND IDFEMP = '0114'
+AND NOTFIC = 'U01000469'
+AND DATEMS = '20210429'
+ ;
+SELECT * --CONFIRMAR OS ITENS DA NOTA
+FROM COPRDD02
+WHERE 1=1
+AND IDFEMP = '0114'
+AND CODCLIFNC = 'C986022';
+
+SELECT * --LOCALIZAR O CUPOM ASSOCIADO A DANFE
+FROM COPDVD00
+WHERE 1=1
+AND  IDFEMP = '0114'
+ --AND NUMDOCFIC = 469
+ AND NOTFIC = 'U01000469'
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+NÃO ESTAVA CONSEGUINDO ACESSAR O NÚMERO DO PEDIDO
+
+SELECT *
+FROM COPEDD08
+--UPDATE COPEDD08 SET  CODCLIFNC = '065DC2', IDFCLIFNC = 'C'
+WHERE 1=1
+ AND IDFEMP = '0019'
+  AND NUMPED = '067362'
+;
+  
+      SELECT *
+FROM COPEDD09
+
+WHERE 1=1
+ AND IDFEMP = '0019'
+  AND NUMPED = '067362'
+;
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+CONSULTAR A NFE NA REDE:
+\\10.1.0.169\data\NFE\FATURA\0008\202012
+É NECESSÁRIO QUE TENHA A CHAVE DE ACESSO PARA CONSULTAR
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+IP:10.1.0.145
+
+TI03001492 - Lenice Veiga
+
+cliente esteve em loja,segundo ela não utilizou o crédito da OS 027836 e no sistema consta como crédito utilizado no dia 12/10/2019.
+Favor verificar.
+
+- PARA LIBERAR A UTILIZAÇÃO DO CRÉDITO
+OBS: GUARDAR OS VALORES DOS CAMPOS NOTFIC E STAPED
+- LIMPAR O CAMPO NOTFIC
+- DEIXAR O CAMPO STAPED COMO 4
+- EM SEGUIDA DEVOLVER OS MESMOS VALORES
+
+U01027346 NOTFIC - LIMPAR O CAMPO
+5 - STAPED - MUDAR PARA 4
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+SALDO DE PRODUTO PRESO:
+
+SELECT *
+FROM COPRDD05
+--UPDATE COPRDD05 SET SLDRSVFLT = SLDRSVFLT - 2, SLDRSVCLI = SLDRSVCLI - 2
+WHERE 1=1
+ AND CODPRD = '481327'
+  AND IDFEMP = '0005'
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 1807 - KELBERSON
+
+Tela: Desconto máximo por canal (UTL3F0)
+
+"Não consegue colocar desconto no cliente, pois já tem um desconto virgente"
+
+*DAMOS UM UPDATE NO CAMPO DATFIMVLD PARA A DATA DE ONTEM.
+  
+  SELECT *
+FROM COPARD02 
+--UPDATE COPARD02 SET DATFIMVLD = '20201216'
+WHERE 1=1
+AND CODCLI = '00BEDA'
+AND DATFIMVLD = '22021215' --FILTRO DE DATA PARA NÃO APLICAR EM TODAS
+ 
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+Esta nota fiscal não esta sendo transmitida porque a SEFAZ está retornando a rejeição 806, isso quer dize que não foi possivel 
+transmitir 
+a nota fiscal porque o código CEST não foi informado para uma operação que tem Substituição Tributária para o ICMS (ICMS-ST).
+
+A fim de resolver este caso, peço por gentileza que você entre em contato com Luzinaldo da contabilidade peça para que eles façam o 
+ajuste do cabeçalho desta nota fiscal.
+
+Qualquer dúvida, coloco-me à disposição!
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+SE O VENDEDOR NÃO CONSEGUE VENDER O PRODUTO PORQUE NÃO ENCONTRA O SERIAL DO MESMO NO CONAGEM, TEMOS QUE CONSULTAR A TABELA "COPRDD00" NO CAMPO "CNTNUMSER" PARA SABER COM QUAL STATUS ESTÁ,
+CASO ESTEJA COM O STATUS "T", O PRODUTO SÓ PEDE CONTROLE DE SERIAL NA SAÍDA DO ESTOQUE PARA A LOJA, CASO ESTEJA COM O STATUS "A" O PRODUTO PEDE CONTROLE NA ENTRADA E NA SAÍDA,
+- PARA FAZER A VENDA É NESSESÁRIO QUE O PRODUTO TENHA CONTROLE NA ENTRADA E NA SAÍDA, LOGO O MESMO TEM QUE ESTÁ COM O STATUS "A" (PARA PRODUTOS COM CÓDIGO DE BARRAS;
+- NO CASO DE O CAMPO "CNTNUMSER" ESTÁ COM O STATUS "T", DAMOS UM UPDATE PARA "A";
+
+OUTRA POSSIBILIDADE:
+
+- SE NA HORA DA VENDA, AO BIPAR O PRODUTO O SISTEMA CONAGEM NÃO LOCALIZE O NÚMERO DE SÉRIE NA LOJA, E FAZENDO A CONSULTA NO NA TABELA "COPRDD00" O CAMPO "CNTNUNSER" ESTEJA COMO "A";
+- DEVEMOS CONSULTAR A TABELA "COSERD01" PARA SABER SE O NÚMERO DE SÉRIE DO PRODUTO ESTÁ NA LOJA, E, CASO NÃO ESTEJA DEVEMOS ORIENTAR O VENDEDOR A ENTRAR EM CONTATO COM A AUDITORIA 
+PARA INCLUIR O NÚMERO DE SÉRIE DO PRODUTO NA LOJA.
+
+- CASO O VENDEDOR ESTEJA TENTANDO VENDER O PRODUTO, CONSULTAMOS NO CONAGEM COCNS130 O SALDO DO PRODUTO VAMOS NA TABELA COSERD01 E VEMOS SE AS INFORMAÇÕES ESTÃO DE ACORDO
+
+STAREG 
+ STATU = 0 - DEPOSITO
+ STATU = 1 - LOJA
+ STATU = 3 - DEFEITO
+
+CNTNUMSER = 
+
+"F" se o produto nao requer controle do numero de serie.
+"T" se o produto requer controle do numero de serie na saida;
+"A" se o produto requer controle do numero de serie na entrada e na saida.
+
+QUERIES PARA CONSULTA:
+
+  SELECT *
+FROM COSERD01
+WHERE 1=1
+ AND IDFEMP = '0114'
+  AND NUMSER = '22081M8001780'
+  
+        *-----------*
+		
+PARA TRATAR, TEMOS QUE DAR UM UPDATE NO CAMPO MUDANDO O STATUS
+
+  SELECT *
+FROM COPRDD00
+--UPDATE COPRDD00 SET  CNTNUMSER = 'A'
+WHERE 1=1
+ AND CODPRD = '445509' AND IDFEMP = '0114'
+ 
+ CNTNUMSER - CONTROLA NUMERO DE SERIE	
+ 
+ 924246135
+ 
+ TI03001817 - Fagner Pereira
+
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+VENDA ENTRE LOJAS:
+
+SELECT *
+FROM COPEDD00
+
+WHERE 1=1
+  AND IDFEMP = '0031'
+    AND DATEMS LIKE '202012%'
+;
+
+ SELECT *
+FROM CONOTD0M
+WHERE 1=1
+ AND IDFEMP = '0031'
+ AND DATEMS = '20201207'
+;
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+VENDA CD COM TROCA FONE - FUNCIONA COM A FINALIZADORA RESGATE,
+TIRAR DÚVIDA: A LOJA DE ORIGEM TEM QUE LANÇAR A INTRANETE PARA A LOJA DESTINO APLICAR O DESCONTO
+
+SELECT *
+FROM COSEVD0H
+--UPDATE COSEVD0H SET  STARGT = 'U'
+WHERE 1=1
+ AND IDFEMP = '0017'
+  AND DATICS = '20211024'
+;
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+CASO O CUPOM NÃO TENHA CIDO PROCESSADO NA C100 E FOI TRANSMITIDO PARA A SEFAZ ENCAMINHAR PARA A VISUALMIX,
+CONSULTAR SE O CUPOM ESTÁ NA CONOTD0M PARA SABER SE ELA FOI INTEGRADA NAS TABELAS DO CONAGEM
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+CANCELAMENTO DE NOTA SALDO DE PRODUTO INSUFICIENTE
+
+DEVE CONSULTAR NA CONOTD0H PARA SABER SE O PRODUTO TEM SALDO NA NOTA
+DEVE INCLUIR O SALDO DO PORDUTO NA TELA DO CONAGEM 
+
+PROCESSO NO CONAGEM:
+- UTILITÁRIOS 
+- INTEGRAÇÕES MONITORAMENTO
+- VISUALMIX
+- ADICIONAR SALDO - INVENTÁRIO OU NOTA BONIFICAÇÃO
+
+DEPOIS REALIZAR O CANCELAMENTO:
+PED130 CANCELAMENTO DE NOTA
+
+LINK DA VERSÃO PARA CANCELAMENTO DENTRO DO CONAGEM SEM MANDAR PARA A SEFAZ
+
+
+
+
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+CAMINHO PARA ENCONTRAR O ARQUIVO XML DA NOTA E VERIFICAR A ESTRUTURA DO MESMO.
+
+\\10.1.0.169\data\NFE\FATURA -> DEVE SELECIONAR A EMPRESA - ANO E MÊS -> DEVE PESQUISAR COM A CHAVE DA NOTA 
+(A CHAVE ESTÁ NA CONOTD0M). DEPOIS QUE LOCALIZAR A NOTA, COPIAR A MESMA E COLAR NA ÁREA DE TRABALHO, ABRIR COM EXPLORER E CLICAR COM O BOTÃO DIREITO
+PARA AEXIBIR CODIGO FONTE
+
+A VERIFICAÇÃO DA ESTRUTURA DA NF É NO LINK https://www.sefaz.rs.gov.br/nfe/nfe-val.aspx (A CONSULTA PODE SER REALIZADA
+EM QUALQUER LINK DA SEFAZ, POIS É SÓ PARA VERIFICAR A ESTRUTUR)
+
+para gerar um novo xml tem que ter deletado o xml da pasta com a busca pela chave e dar esse update
+--UPDATE CONOTD0M SET STAPRE = '105', XMLNOTFIC = NULL
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+Boa tarde,
+
+Prezados,
+  Não estou conseguindo emitir uma NF baixa (saída) do item 40883-2 = 04 (Tem saldo no estoque) ocorre erro de saldo no aguardo obrigado.
+
+Obs. CD Recife "0001". 
+
+PROCEDIMENTO: ACESSAR O CONAGEM - UTILITÁRIOS - INTEGRAÇÃO DE MOVIMENTO - VISUALMIX - ADICIONAR SALDO - INVENTÁRIO OU NOTA BONIFICAÇÃO;
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+Boa tarde. Gentileza, estonar a NF 320090 fornecedor Samsung. Está sendo gerado um NOVO AF para atender esta NF. No aguardo.
+
+CONSULTAMOS A NOTA FISCALL NA CONOTD01 PARA SABER COMO ESTÁ O STATUS DA MESMA, SE TIVER COM O STATUS W PODEMOS ESTORNAR A MESMA NA TELA COPED270
+PARA ISSO COLOCAMOS O CÓDIGO DO FORNECEDOR QUE ESTÁ NO CAMPO CODFNC E COLOCAMOS NO MÓDULO DO CONAGEM.
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+O atendimento do tkt supra dá-se da seguinte forma:
+
+--CAMINHO DA PASTA: C:\Users\Administrator\Desktop\SINagem de Cupom - Usar essa por enquanto -- ARQUIVO: SINagemAntiga.ini
+
+Localizar o arquivo sinagem*.ini da interface SINAGEM que processa o autotrac;
+Localizar neste arquivo o trecho abaixo: 
+
+[AUTOTRAC]pfr0002
+IntervaloImportacao=1
+HoraImportacaoMovIni=00:01
+HoraImportacaoMovFim=23:59
+DBAutoTrac=AUTOTRAC
+DBCONagem=CONAGEM Produção
+Veiculos=PFO5516,PGP6531,PDK2723,KKK7479,PFR0002,PDZ3326,PDZ3376,PDK3340,PEF9420,PFY3356,PGH2137,PFS1538,PGP6501,PDZ3336,PER3935,PCL3621,PER3965,PER3995,PDZ3426,PEJ0319,PDZ3356,PCY6949,QYH7J57,PCL3321,PFR1278,KHY7461,KKK0063,PFQ4034,KIO8961,PDK3060,PGP6611,PDK3470,KGO1946,KHY7461,PFO5546,PDZ3416,KLC9645,PGP6571,KIO1461,PCF5759,PCY7069,PFP1152,QYH7J77,KHJ1956,KJB0155,PGP6551,PFO5536,PCL3401,PCH2151,QYH7J37,
+PastaApisul=X:\
+VeiculosBaixa=PFO5516=247731,PGP6531=357719,PDK2723=330344,KKK7479=243906,PFR0002=221609,PDZ3326=357966,PDZ3376=336106,PDK3340=249793,PEF9420=352042,PFY3356=321005,PGH2137=220939,PFS1538=201798,PGP6501=326987,PDZ3336=326292,PER3935=326292,PCL3621=243896,PER3965=207494,PER3995=246363,PDZ3426=347552,PEJ0319=243592,PDZ3356=222782,PCY6949=328780,QYH7J57=360477,PCL3321=363956,PFR1278=240156,KHY7461=342386,KKK0063=208356,PFQ4034=208375,KIO8961=326549,PDK3060=326803,PGP6611=241138,PDK3470=358924,KGO1946=335864,KHY7461=326824,PFO5546=0,PDZ3416=329108,KLC9645=248234,PGP6571=324169,KIO1461=221773,PCF5759=352493,PCY7069=347246,PFP1152=323481,QYH7J77=327210,KHJ1956=211623,KJB0155=221609,PGP6551=243547,PFO5536=0,PCL3401=250222,PCH2151=248045,QYH7J37=364612,
+[AUTOTRAC Importacao]
+ListaResponsavelImportacao=Importar Mensagens de Retorno
+ListaResponsavelCriticaImportacao=
+ImportaMensagemRetornoCondutor=1
+Logar=0
+UltimaImportacao=30/12/2020 08:31:16
+GerarArquivoEdiApisul=1
+EnviarMenssagensRetornoNota=0
+
+A necessidade do setor é cadastrar a placa de um novo veículo: "Boa tarde! Favor realizar a integração da UCC 247731 para o veículo QYM7C58, no sistema CONAGEM / AUTOTRAC.Integração necessária para acompanhamento do veículo no CONAGEM, e seguro da carga."
+
+No texto em questão, procurar o UCC "247731", no caso em questão... o trecho encontra-se conforme sinalizado abaixo, apontando para a placa "PFO5516":
+
+
+
+"VeiculosBaixa=PFO5516=247731,PGP6531=357719,PDK2723=330344,KKK7479=243906,PFR0002=221609,PDZ3326=357966,PDZ3376=336106,PDK3340=249793,PEF9420=352042,PFY3356=321005,PGH2137=220939,PFS1538=201798,PGP6501=326987,PDZ3336=326292,PER3935=326292,PCL3621=243896,PER3965=207494,PER3995=246363,PDZ3426=347552,PEJ0319=243592,PDZ3356=222782,PCY6949=328780,QYH7J57=360477,PCL3321=363956,PFR1278=240156,KHY7461=342386,KKK0063=208356,PFQ4034=208375,KIO8961=326549,PDK3060=326803,PGP6611=241138,PDK3470=358924,KGO1946=335864,KHY7461=326824,PFO5546=0,PDZ3416=329108,KLC9645=248234,PGP6571=324169,KIO1461=221773,PCF5759=352493,PCY7069=347246,PFP1152=323481,QYH7J77=327210,KHJ1956=211623,KJB0155=221609,PGP6551=243547,PFO5536=0,PCL3401=250222,PCH2151=248045,QYH7J37=364612,"
+
+
+3. Substituir a placa "PFO5516" pela informada pelo setor: "QYM7C58" em todos os locais onde forem necessários, conforme abaixo:
+
+[AUTOTRAC]
+IntervaloImportacao=1
+HoraImportacaoMovIni=00:01
+HoraImportacaoMovFim=23:59
+DBAutoTrac=AUTOTRAC
+DBCONagem=CONAGEM Produção
+Veiculos=QYM7C58,PGP6531,PDK2723,KKK7479,PFR0002,PDZ3326,PDZ3376,PDK3340,PEF9420,PFY3356,PGH2137,PFS1538,PGP6501,PDZ3336,PER3935,PCL3621,PER3965,PER3995,PDZ3426,PEJ0319,PDZ3356,PCY6949,QYH7J57,PCL3321,PFR1278,KHY7461,KKK0063,PFQ4034,KIO8961,PDK3060,PGP6611,PDK3470,KGO1946,KHY7461,PFO5546,PDZ3416,KLC9645,PGP6571,KIO1461,PCF5759,PCY7069,PFP1152,QYH7J77,KHJ1956,KJB0155,PGP6551,PFO5536,PCL3401,PCH2151,QYH7J37,
+PastaApisul=X:\
+VeiculosBaixa=QYM7C58=247731,PGP6531=357719,PDK2723=330344,KKK7479=243906,PFR0002=221609,PDZ3326=357966,PDZ3376=336106,PDK3340=249793,PEF9420=352042,PFY3356=321005,PGH2137=220939,PFS1538=201798,PGP6501=326987,PDZ3336=326292,PER3935=326292,PCL3621=243896,PER3965=207494,PER3995=246363,PDZ3426=347552,PEJ0319=243592,PDZ3356=222782,PCY6949=328780,QYH7J57=360477,PCL3321=363956,PFR1278=240156,KHY7461=342386,KKK0063=208356,PFQ4034=208375,KIO8961=326549,PDK3060=326803,PGP6611=241138,PDK3470=358924,KGO1946=335864,KHY7461=326824,PFO5546=0,PDZ3416=329108,KLC9645=248234,PGP6571=324169,KIO1461=221773,PCF5759=352493,PCY7069=347246,PFP1152=323481,QYH7J77=327210,KHJ1956=211623,KJB0155=221609,PGP6551=243547,PFO5536=0,PCL3401=250222,PCH2151=248045,QYH7J37=364612,
+[AUTOTRAC Importacao]
+ListaResponsavelImportacao=Importar Mensagens de Retorno
+ListaResponsavelCriticaImportacao=
+ImportaMensagemRetornoCondutor=1
+Logar=0
+UltimaImportacao=30/12/2020 08:31:16
+GerarArquivoEdiApisul=1
+EnviarMenssagensRetornoNota=0
+
+4. Reiniciar SINAGEM em questão;
+5. Confirmar com a área;
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+Prezados solicito dav referente ao dia 04/01/2021 horário 12:12 PEDIDO 008267 VENDA CD tem um 
+cupom de garantia também. valor compra 7.199,00 garantia 900,35 
+cliente 14BFD1 MARCIA NUNES LISBOA CPF: 12576581587 VENDEDOR FEZ A VENDA A DAV NÃO SAIU. PRECISO DO DOCUMENTO 
+PARA CONSTAR NA CONTABILIDADE.
+
+
+CONSULTA NA COPED3A7 NO CONAGEM PARA IMPRESSÃO DE DAV (TAMBÉM SAI A GARANTIA ESTENDIDA NO PDF).
+
+LINK DE REFERÊNCIA: http://10.1.0.151:8092/vm_nagem_ws/pdf.jsp?arquivo=c:\VisualStore\lj000018\nagem\ano2021\mes01\davs00826721.pdf
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+COPED382 INUTILIZAÇÃO DE DANFE NF-E NO CONAGEM
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+PESQUISA NOTA DE DEVOLUÇÃO
+
+DEVOLUÇÃO DE VENDAC ONSULTA NA COPRDD02, DEVE ESTAR OS DOIS CUPONS 90/94
+O CAMPO IDFDBTCRD = '1' É ENTRADA E 2 É SAÍDA
+
+CONSULTAMOS NA TABELA COPEDD09 COM O OCUPOM DE VENDA PARA PEGAR O NÚMERO DO PEDIDO E LOCALIZAR A NOTA DE DEVOLUÇÃO NA COPEDD08
+
+O CUPOM DE ENTRADA VAI ESTAR NA COPEDD09
+O CUPOM DE SAÍDA VAI ESTAR NA COPEDD08
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+CONOTD01 ENTRADA
+CONOTD00 SAÍDA
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+LOJA 4 PDV 13 É com o sap
+
+
+
+nota para debugar U07000 647  
+
+078841
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+VORTICE CRM
+
+PEGA O CODCLI DO CLIENTE E CONSULTA NA TABELA GE_PESSOALINK
+NO CAMPO PESSOALINK
+DEPOIS PEGA O CAMPO SEGPESSOA E FAZ UMA NOVA CONSULTAS NA MESMA TABELA
+VAI VIR DUAS LINHAS
+DEVE EXCLUIR A LINHA QUE ESTÁ ERRADA SEGUNDO AS INFORMAÇÕES DO SOLICITANTE
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+CONAGEMWEB 
+
+NÃO CONSEGUE RESERVAR PRODUTOS
+SOLUÇÃO: RODAR O TINAGEM
+
+TI03002085
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+usuario tlima SAP
+senha   sup0rtn@g3m
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+CANCELMANTO DE NOTA:
+
+O solicitante tem um przo de 24 horas para realizar o processo de cancelamento, se passar esse prazo, 
+só com devolução.
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+AJUSTE TROCA DE UMA TROCA:
+
+"Tentando lançar a forma de pagamento no novo orçamento e mostra a menagem ( devolução referente a venda 
+não foi realizado em Modo de Campanhas) Favor utilizar a finalizadora troca."
+
+******************************
+---Ajustado OS para liberação de uma Troca de Troca: Você deve Verificar na Tabela COPTOD0A a 
+troca anterior e dá um Insert dos menos dados so alterando o Número da NOVA NOTA e a DATA
+
+  
+
+ --INSERT INTO COPTOD0A VALUES ('0032','U08065066','20210110','524573','001','03',498290080,5,'1',292.1,1,668417);
+ 
+******************************
+ OBS: QUANDO TENTA REALIZAR UMA SEGUNDA DEVOLUÇÃO O SISTEMA NÃO ENCONTRA A NOTA GERADA NA COPTOD0A, POIS A NOTA QUE É ALIMENTADA 
+ NESSA TABELA É A PRIMEIRA DEVOLUÇÃO EFETIVADA. DEVEMOS DAR UM ULPDATE NA TABELA COPTOD0A COM O NÚMERO DA NOTA E A DATA 
+ QUE ESTÁ TENTANDO DEVOLVER COM OS DEMAIS DADOS DA ULTIMA DEVOLUÇÃO (Os dados da ultima devolução vai estar na tabela COPTOD0A,
+ mas os dados da nova devolução não).
+ 
+ PARA CONSULTAR O HISTÓRICO DE NOTAS, CONSULTAMOS NA 'CONOTD00' COM O CÓDIGO DO CLIENTE 'CODCLI', VEMOS O VALOR DA NOTA E 
+ COMPARAMOS COM A NOTA ATUAL PARA REFERENCIAR.
+ 
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+LINK PARA CONSULTA NFCE CEARÁ: https://cfe.sefaz.ce.gov.br/mfe/servicos#/cupom-fiscal
+
+PARA SABER SE A NOTA DE ENTRADA ESTÁ AGUARDANDO RETORNO DO WMS É NA TELA 
+COPED1P0 NO CONAGEM.
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+Nota Fiscal de Venda não encontrada !
+
+pedidos bdc
+copedd08 cabeçalho do pedido bdc
+copedd09 - itens
+
+copedd0d com o número da nota que foi localizada na COPEDD09 no campo NOTSAI. Para saber se a nota está com o campo ANO diferente
+do ano do pedido.
+
+----------------------------------------------
+----------------------------------------------
+---------------------------------------------- 
+
+consultar o log com o número de série do produto
+  SELECT *
+FROM COLOGD00
+WHERE 1=1
+ AND IDFEMP = '0023'
+  AND COTLOG LIKE '%AUCKBXA003429%'
+  
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Item 505986 consta como previsão de recebimento de 1Pç, mas não tem nada em transito e nem pendente de entrada (PEDIDO).
+
+  SELECT *
+FROM COPRDD00
+--UPDATE COPRDD00 SET SLDPEDFNC = SLDPEDFNC -1 --CAMPO REFERENTE AO PREVISÃO DE SALDO DO CONAGEM
+WHERE 1=1
+ --AND IDFEMP = '0001'
+ 
+ AND CODPRD = '505986'
+  AND IDFEMP = '0018'
+  AND SLDPEDFNC > 0; (DEVE CONSULTAR OS PRODUTOS COM O SALDO MAIOR NA TABELA)
+  
+  (OBS:) NÃO TINHA PRODUTO EM FLUXO, MAS ESTAVA COM PREVISÃO DE SALDO
+  PARA FAZER ESSA CONSULTA, TEMOS QUE DAR F10 NA TELA COCNS130 JÁ COM O FILTRO DO PRODUTO PARA SABER SE TEM ALGUMA NOTA
+  EM FLUXO.
+  
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+ERRO NA COPED1P0 NA TABELA PC_WMSOUTPUT, DÁ UM UPDATE NO SEMÁFORO PARA 1
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Erro : Filial: xxxx - Produto: xxxxxx - Data: xx/xx/xxxx - Saldo de Defeito insuficiente para recuperar a quantidade x
+
+--Remover da integração
+SELECT * FROM NAGWMS.PCWMSBLOQUEIOEST
+--DELETE FROM NAGWMS.PCWMSBLOQUEIOEST
+WHERE 1=1
+AND CODPROD = 523160
+AND DATA = '2021-02-09'
+;
+
+OBS: SEMÁFORO 3 não apaga (já foi processado)
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+PARA UMA LOJA REALIZAR UMA VENDA PARA FATURAMENTO NELA MESMA. TELA COPED110.
+
+TELA NO CONAGEM PARA INCLUIR LOJA - COTABA50
+
+PELO RLN ->
+
+QUERY = TABELA CADASTRO DE VENDA CD LOJA
+
+--TABELA CADASTRO DE VENDA CD LOJA
+
+SELECT IDFEMP AS LOJA_FATURAMENTO, IDFUNDVEN AS LOJA_VENDA
+FROM corgad05 --UPDATE CORGAD05 SET
+WHERE 1=1
+--AND IDFEMP = '0037'
+AND IDFUNDVEN = '0072'
+;
+--INSERT INTO CORGAD05 (IDFEMP, IDFUNDVEN) VALUES ('0072','0072')
+
+;
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Juli CASRTÕES.
+
+AS INTEGRAÇÕES DE CARTÕES E DE CUPONS SÃO SEPARADAS:
+
+SINAGEM CONSILIAÇÕES VENDA CRÉDITO PARA CARTÕES
+
+SINAGEM PARA CUPONS
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Prezados boa tarde!
+Se por acaso, recepcionarem algum chamado referente ao CXNagem com o seguinte Erro:
+
+"Houve um erro na baixa do documento no SAP. Mensagem: Erro ao baixar lançamento. 
+Baixa: Sequencial de Lancamento: 663755
+Tipo Operação: 03
+Tipo Documento: BD
+IdfEmp: 0026
+Referência: NFS U01015543
+Data Emissão: 20210304
+Pessoa: C0010589251
+NSU: LJA#
+RO: 
+Texto Lançamento: Baixa Venda POS
+Mensagem: Erro ao exportar Lancamento. Mensagem: Erro formato em campo BKPF-BLDAT. Ver mensagem seguinte
+Ult.Lin.Erro: 
+Componente atual: fCXCXA700D.btConfirmar
+Versão: Sistema de Recebimento Nagem V1.1 (Build 3 - Revision 5920) ( 09/03/2021 14:31 - IP:192.168.26.3 )"
+------------------------------------
+
+Mensagem especifica do SAP: 
+"Mensagem: Erro ao exportar Lancamento. Mensagem: Erro formato em campo BKPF-BLDAT. Ver mensagem seguinte"
+
+Onde "BKPF-BLDAT" faz referencia a data do movimento.
+
+Para este erro será necessário realizar algumas atualizações no SAP, para correção do problema.
+
+Nesta oportunidade quem nos ajudou com esta atualização foi Renato Oliveira, suporte da infra.
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+Bai de documento:
+
+NUMERO DO PEDIDOFORMA DE PAGAMENTO
+CÓDIGO DE AUTORIZAÇÃO
+NUMERO DA NOTA
+DATA DA NOTA
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+COCAD510 - TELA PARA CONSULTAR SE O PRODUTO ESTÁ DISPONPÍVEL PARA AS LOJAS.
+
+VERIFICAR NO VISUAL STORE SE O PRODUTO ESTÁ CADASTRADO PARA A Loja
+CADASTROS>PRODUTOS>PRODUTO
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+erro611
+MDF não encerrada relacionada a romaneio
+na hora de transmitir o romaneio estora um erro de 611 que diz XML da MDF não transmitida
+
+ERRO 611 TRANSMIÇÃO DE ROMANEIO XML MDF
+ESSE ERRO ESTOURA REFERENTE A MDF NÃO CANCELADA PARA CORRIGIR E SO PEDIR PARA O MESMO ENCERRAR A MDF.
+FEITO ISSO O PROBLEMA ESTA RESOLVIDO.
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+PEDIDO DE DEVOLUÇÃO:
+VALOR DO CRÉDITO GERADO É MENOR DO QUE O NÚMERO DA NOTA DE SAÍDA
+
+1 - CONSULTAR NA TABELA COPEDD09 ESTÁ COM OS VALORES DE ACORDO COM A COPRDD02
+
+--SUM(VALTOTITE + VALIPI)
+FROM COPEDD09
+WHERE 1=1
+ AND IDFEMP = '0003'
+ AND NOTFICSAI = 'U01050766'
+ AND DATNOTSAI = '20210329'
+----------------------------
+SELECT 
+SUM(PRCVEN + VALIPI)
+FROM COPRDD02
+WHERE 1=1
+AND IDFEMP = '0003'
+AND NUMDOC = 'U01050766'
+ AND DATTRA = '20210329'
+
+2 - CASO ENCONTRE DIVERGÊNCIA DE VALOR ENTRE AS DUAS TABELAS, DEVEMOS AJUSTAR A TABELA COPEDD09
+
+--COMPARATIVO ENTRE AS TABELAS:
+COPEDD09   |  COPRDD02
+VALTOTITE  =  PRCVEN
+VALIPI     =  VALIPI
+
+--ATUALIZAÇÃO DA TABELA COPEDD09:
+
+--UPDATE COPEDD09 SET VALTOTITE =  1129.57 (VALOR TOTAL DOS ITENS DA COPRDD02)
+WHERE 1=1
+ AND IDFEMP = '0003'
+ AND NOTFICSAI = 'U01050766'
+ AND DATNOTSAI = '20210329'
+ 
+3 - COMPARA A TABELA COPEDD08 COM A TABELA COPEDD09 (TABELA JÁ AJUSTADA)
+
+--COMPARATIVO ENTRE AS TABELAS:
+COPEDD08    |   COPEDD09
+VALTOTNOT   =   VALTOTITE
+VALTOTIPI   =   VALIPI
+
+SELECT 
+VALTOTNOT, VALTOTIPI
+FROM COPEDD08
+WHERE 1=1
+ AND IDFEMP = '0003'
+ AND NUMPED = '050061'
+
+SELECT  SUM(VALTOTITE), SUM(VALIPI)
+FROM COPEDD09
+WHERE 1=1
+ AND IDFEMP = '0003'
+ AND NOTFICSAI = 'U01050766'
+ AND DATNOTSAI = '20210329'
+ 
+--CASO TENHA DIVERGÊNCIA NA TABELA COPEDD08, ATUALIZAR A MESMA:
+ 
+UPDATE COPEDD08 SET VALTOTNOT = 1433.83 --SOMATÓRIO DA COLUNA VALTOTITE DA TABELA COPEDD09
+WHERE 1=1
+ AND IDFEMP = '0003'
+ AND NUMPED = '050061'
+
+SOLICITAR PARA O SOLICITATE GERAR O CRÉDITO DE DEVOLUÇÃO!
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+https://dfe-portal.svrs.rs.gov.br/Mdfe/Consulta
+
+MDF-e QUANDO DER ERRO NA TELA DE IMPRESSÃO COPED1Q3  OU NÃO APARECER PARA IMPRIMIR E SO IR NA TALEBA
+CONOTD11 E TROCAR O CAMPO STAIMP PARA 0 (ZERO) MUITO PROVAVELMENTE VAI ESTAR EM 1 TROQUE PARA 0 (ZERO) 
+PARA VOLTAR PARA A TELA DE IMPRESSÃO.
+
+
+
+SELECT *
+FROM CONOTD11
+--UPDATE CONOTD11 SET  STAIMP = '0' (STATUS DE IMPRESSÃO)
+WHERE 1=1
+ AND IDFEMP = '0021' AND NUMMDF = '003375'
+ 
+;
+
+--CASO JA ESTEJA O PASSO ACIMA FEITO E NÃO RESOLVEU IR NA TABELA CONOTD0M E VERIFICAR O CAMPO XMLENVCLI SE VC CLICAR EM VISUALIZAR E NÃO
+ESTIVER NADA NESSE CAMPO TEM QUE BOTAR PARA TRANSMITIR A NOTA NOVAMENTE FAZENDO O PASSO A BAIXO DE PRIMEIRA VAI DAR ERRO DEPOIS NOTA DUPLICADA
+E DEPOIS VAI PASSAR E GERAR O XML PRA IMPRESSÃO.
+SELECT *
+FROM CONOTD0M
+--UPDATE  CONOTD0M SET  STAPRE = '215'
+
+WHERE 1=1
+ AND IDFEMP = '0097' AND NOTFIC = 'U01001824'  AND DATEMS = '20210430'
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+OBS: PROCEDIMENTO REALIZADO POR TIBÉRIO OU JAMESSON
+CONSULTAR DISPONIBILIDADE DA SEFAZ NO LINK: http://www.nfe.fazenda.gov.br/portal/disponibilidade.aspx?versao=0.00&tipoConteudo=Skeuqr8PQBY=
+
+PROCESSO DE CONTIGÊNCIA PARA ESTADOS
+
+PARAS ESSE EXEMPLO ESTAREMOS COLOCANDO O ESTADO DA BAHIA EM CONTIGÊNCIA
+FAZENDO O PROCESSO NO CD
+
+ACESSAR O CD DA BA - 0002 NO CONAGEM > UTILITÁRIOS > CONFIGURAÇÕES DE PARÂMETROS DO SISTEMA > CONTIGÊNCIA DE NOTAS >
+NA TELA - CLICAR EM INIC9999IAR OU FINALIZAR
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+IMPRESSÃO DE NOTAS ANTIGAS PARA REIMPRIMIR E GERAR A COPIA CUPOM 
+APAGAR AS SEGUINTES INFORMAÇÕES DATEMS E NOTFIC E PEDIR PARA QUE SE GERE A COPIA CUPOM PARA O VENDEDOR
+TELA DA COPIA CUPOM COPED360 NO CONAGEM ASSIM QUE FOR FEITA A COPIA CUPOM O NUMERO DA NOTA VAI SER ALTERADO
+ENTÃO PARA FAZER A BUSCA NA TABELA A BAIXO GRAVAR O NUMERO DA COLUNA NUMDOCFIC
+
+
+SELECT *
+FROM COPDVD00
+--UPDATE COPDVD00 SET DATEMS = '', NOTFIC = '' -- AND NUMCPM = '000034049' AND DATEMS = '20200315' 03 013045
+WHERE 1=1
+
+AND IDFEMP = '0091' AND NUMDOCFIC = 013045 --U01004377
+;
+
+SELECT *
+FROM COPDVD00
+WHERE 1=1
+ AND IDFEMP = '0014' AND NUMPDV = '009' AND DATEMS = '20161222'  AND NUMCPM = '000060447'
+ -- AND DATEMS = '20161222' AND NOTFIC = 'U01061545'
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+quando aparecer esse erro
+field "PRCVEN" not found 
+vc so precisa ir em uma versão mais antiga do conagem e transmitir a nota.
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+cliente não encontrado como resolver cliente B2C
+trocar as colunas das tabelas copedd0d e coclid0b o valor que tem que estar por obrigação 
+no campo SQCEND e 0 pois o sistema entende que e o endereço principal e ai deixar transmitir a nota
+lembrando que toda pesquisa feita com pedidos e cliente tem que ser em hexa decimal.
+
+Desc: 
+Nota Fiscal não transmitida
+
+br.nagem.excecao.ExcecaoClienteNaoEncontrado: Cliente não cadastrado:Cliente não cadastrado:0241AC
+Ult.Lin.Erro: 
+
+----------------CAUSA------------------------
+Falha no serviço de validação de clientes B2C
+
+
+----------------CONTORNO---------------------
+
+--PEGA O CNJP DO CLIENTE E VERIFICA O SEQCEND(SEQUENCIAL DE ENDEREÇO) 
+SELECT CODGRLCON,SQCEND
+FROM COPEDD0D
+--UPDATE COPEDD0D SET  SQCEND = 0
+WHERE 1=1  
+AND NOTFIC = 'U01121321'  
+AND IDFEMP = '0001'  
+AND DATEMS = '20210603';
+
+--EM SEGUINDA PEGA O CÓDIGO DO CLIENTE, VC TBM PODE PEGAR NA TELA COPED381
+SELECT CODCLI
+FROM COCLID0F
+WHERE 1=1  AND CODGRLCON = '12345678901';
+
+--VERIFICA O SEQCEND(SEQUENCIAL DE ENDEREÇO) 
+SELECT *
+FROM COCLID0B
+WHERE 1=1  AND CODCLI = '123456';
+
+
+-- ATUALIZE PARA 0, TANTO O DO PEDIDO COMO O DO ENDEREÇO
+ SELECT CODGRLCON,SQCEND
+FROM COPEDD0D
+--UPDATE COPEDD0D SET  SQCEND = 0
+WHERE 1=1  
+AND NOTFIC = 'U01121321'  
+AND IDFEMP = '0001'  
+AND DATEMS = '20210603';
+
+SELECT *
+FROM COCLID0B
+--UPDATE COCLID0B SET  SQCEND = 0
+WHERE 1=1  AND CODCLI = '0241AC';
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+LINK PARA VALIDAÇÃO DE XML DA NOTA:
+
+https://validador.nfe.tecnospeed.com.br/
+
+Chega de procurar erros em suas notas. Componente com Auditor Fiscal.
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+RECEBIMENTO DE NOTA COM APARELHOS DISTINTOS NA MESMA NOTA
+
+Boa tarde.  Estou com um problema sobre a NF 11759 DOA emitida em 26/05/21 pela Loja 50 SP/SP. No sistema WSnagem,
+para coletar os emeis, só me solicitou o emei do celular A11 ficando de foram os tabletes A8 e A10. Em anexo print.
+
+O problema está relacionado aos aparelhos de grupos distintos em uma mesma nota, o celular '520055', 'SANSUMG' controla número
+de série na entrada e na saída e os outros não ('500810','502596'). para esse procedimento, os aparelhos celulares 
+do mesmo grupo devem ser transferidos em uma nota individual.
+Não temos como atuar nesta solicitação, pois é uma questão de procedimento e não um erro de sistema.
+
+- CONSULTAR OS ITENS
+
+SELECT *
+FROM COPRDD00
+WHERE 1=1
+AND IDFEMP = '0050'
+AND CODPRD IN ('502596','500810','520055')
+
+- VER SE OS SELULARES PERTENCEM AO GRUPO: 
+
+CODGRPPRD = 185 
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+VALIDADOR DE XML
+
+https://validador.nfe.tecnospeed.com.br/
+
+CAMINHO DO XML DA NOTA
+
+\\10.1.0.169\data\NFE\FATURA
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+CANCELAR CARTÃO INCOMM 
+
+Só fazer esse procedimento se for uma solicitação da equipe de Serviços Financeiros
+
+Caso seja uma pessoa de loja, orientar o solicitante a entrar com o serviço financeiro.
+
+-Na COSEVD05  dê um Update nos seguintes campos - STASEV = 'C'  e DATCLA = DATA_DE_HOJE.
+
+
+SELECT *
+FROM COSEVD05
+--UPDATE COSEVD05 SET  STASEV = 'C', DATCLA = '20210528'
+WHERE 1=1
+ AND NUMCER = '086557' AND IDFEMP = '0029'
+;
+
+
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+para modificar o status da nota de romaneio para o mesmo poder despachar a nota.
+
+
+
+SELECT *
+FROM COPEDD0D
+--UPDATE COPEDD0D SET  POSPED = '2'
+WHERE 1=1
+ AND NUMPED = '063D5D'
+ AND IDFEMP = '0002'
+ AND NOTFIC = 'U01562216'
+;
+
+
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+-- COMO ALTERAR O STATUS DE ORDEM DE SERVIÇO PARA IMPRESSÃO DE OS DE DRNAFEM COPED376
+
+SELECT *
+FROM COSEVD06
+--UPDATE COSEVD06 SET  STASEV = 'F'
+WHERE 1=1
+ AND IDFEMP = '0114'
+ 
+ AND ORDSEV IN  ('000044','000045','000046')
+;
+
+SELECT *
+FROM CONOTD0K
+WHERE 1=1
+ AND IDFEMP = '0114'
+  AND NUMRECSEV = '014114'
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+Encerramento de MDF-e
+ 
+checar no link abaixo para ver se a nota existe
+no final da nota tem que estar encerrada pela sefaz
+tela do conagem COPED1Q2 apos ver as informações a cima 
+basta somente trocar o estatus para 132 como mostra abaixo.
+
+https://dfe-portal.svrs.rs.gov.br/Mdfe/Consulta
+
+SELECT *
+FROM CONOTD11
+-- UPDATE CONOTD11 SET  STAPRE = '132'
+WHERE 1=1
+ AND IDFEMP = '0002' AND NUMMDF IN ('002616','002647','002681','002848','002873')
+;
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+PROCESSO PARA GERAR NOVO CUPOM, POIS O ANTIGO ESTAVA COM A DATA ANTIGA E COM ERRO DE TRANSMISSÃO NA SEFAZ.
+
+SELECT *
+FROM COPDVD00
+--UPDATE COPDVD00 SET DATEMS = '', NOTFIC = '' -- AND NUMCPM = '000034049' AND DATEMS = '20200315' 03 013045
+WHERE 1=1
+AND IDFEMP = '0091' AND NUMDOCFIC = 013045 --U01004377
+;
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+PROCESSO PARA:
+
+INSERSSÃO DE NOTA PARA TRANSFERÊNCIA ENTRE LOJAS:
+
+OBS: NAS PRIMERAS TENTATIVAS CONSULTAR JAMESSON
+
+- NA SAIDA (LOJA) É PARA TER AS INFORMAÇÕES DA NOTA ENTRADA E NA ENTRADA (LOJA) TEM QUE TER AS INFORMAÇÕES DA NOTA DA SAIDA;
+- NO CAMPO 'CODCLIFNC' DE SAIDA (LOJA) TEM QUE TER O CODIGO DO CLIENTE 'CODCLIFNC' DA NOTA DE ENTRADA ADICIONAR'C' 
+ANTES DO CÓDIGO DO CLIENTE;
+- NA ENTRADA TEM QUE TER A INFORMAÇÃO DO CODIGO DO FORNECEDOR DA SAIDA 'CODCLIFNC' .
+
+TODA SAIDA TEM QUE TER O 'IDFDBTCRD' 2 E A ENTRADA 1
+O STAATV DE SAIDA TEM QUE SER 2 EM QUANTO O DA ENTRADA TEM Q SER 0 , O RESTO DA INFORMAÇÃO E IGUAL AO EXEMPLO.
+ 
+
+--SAIDA
+INSERT INTO CONOTD0E (IDFEMP,   NOTFIC,      CODCLIFNC, IDFDBTCRD,   IDFRMA,   DATEMS,    CODPRD,      NUMSER,          DATTRA,   NUMRFR,  STAATV, NUMPED,  ANO,  CODSEV, NUMPEDSEV, STAUTZSER, IDFOPEBSH)
+             VALUES  ('0001',  'U01657241',   'CDA5056',    '2',       '0',   '20210517', '519634', 'R9XN60HMBZE',         '',       '',     '2',    '',    '21',   '',      '',        '0',        '0');
+
+-------------------------------
+--ENTRADA
+INSERT INTO CONOTD0E (IDFEMP,   NOTFIC,     CODCLIFNC, IDFDBTCRD,   IDFRMA,   DATEMS,    CODPRD,      NUMSER,          DATTRA,   NUMRFR,  STAATV, NUMPED,  ANO,  CODSEV, NUMPEDSEV, STAUTZSER, IDFOPEBSH)
+             VALUES  ('0105',  'U01657241',   'F003573',    '1',       '0',   '20210517', '519634', 'R9XN60HMBZE',        '',       '',     '0',    '',    '21',   '',      '',        '0',        '0');
+
+
+OBS: PARA CADA NUMERO DE SERIE TEM QUE SE DAR UM INSERT DE SAIDA E DE ENTRADA.
+
+TABELAS QUE SÃO UTILIZADAS NA BUSCA DAS INFORMAÇÕES 
+COEMPD00 PEGANO O GRLCON PARA COLOCAR NA COCLID01 PARA ACHAR O CLIENTE
+COEMPD00 PEGANO O GRLCON PARA ACHAR O COFNCD00 PARA ACHAR AO CODIGO DO FORNECEDOR
+CONOTD0E PARA VER SE O INSERT FUNCIONOU 
+A ULTIMA INFORMAÇÃO DA COLUNA ALTERA ENTRE 0 E 1 SENDO ZERO O SALDO DA PROPRIA LOJA E 1 UM SALDO TIPO ESTOQUE SENDO ESSE BRAND.
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+PRODUTO COM PREVISÃO DE SALDO, MAS SEM PEDIDO VINCULADO.
+
+PARA A CONSULTA NO CONAGEM IR NO CD 0001, MÓDULO (COCNS130) COLOCAR O CODIGO DO PRODUTO, CLICAR EM 'F8'
+E VER AONDE ESTA O SALDO, APOS VERIFICAR CLICAR EM 'F10' PARA VER EM QUAL PEDIDO ESTÁ VINCULADO O PRODUTO 
+(PARA O ERRO, NÃO TERÁ PEDIDO!).
+ 
+O SALDO VERIFIQUE A BAIXO. 
+
+SELECT *
+FROM COPRDD00
+--UPDATE COPRDD00 SET  SLDPEDFNC = SLDPEDFNC -1
+WHERE 1=1
+ AND CODPRD = '494496'  AND IDFEMP = '0004'
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+* INFORMAÇÃO EM CONSTRUÇÃO!
+
+AO RECEBER UM CHAMADO PARA VERIFICAR FALTA DE PRODUTO OU SOBRA DE PRODUTO 
+VERIFICAR PELO CODIGO DO PRODUTO NO VISUAL STORE NA PARTE DE CONSULTA CUPONS 
+PARA IR ATE ESSA PARTE VC ENTRA NO VISUAL STORE VC COLOCA O MOUSE EM CIMA LOG DE VENDAS E EM SEGUIDA COLOCAR CUNSULTAR CUPONS
+PREENCHER AS INFORMAÇÕES QUE POSSUIR NESSA TELA E VER SE TEVE VENDA OU NÃO NO PERIODO QUE ESTIPULA O CHAMADO 
+FEITO ISSO INDEPENDENTE SE TEVE VENDAS OU NÃO IR PARA O RLN COLOCAR NA TABELA COPRDD02 COLOCAR A LOJA E UM NUMDOC E VERIFICAR SE FOI 
+PROCESSADO CORRETAMENTE SENDO QUE O CAMPO 'CODHSTTRA' SE ESTIVER EM 90 SIGNIFICA QUE FOI PRECESSADO CORRETAMENTE CASO ESTEJA QUALQUER 
+VALOR FORA DE 90 PROCURAR O SIGNIFICADO NA TABELA COTABD01 FEITO ISSO E SO RELATAR ISSO NO CHAMDO CASO NÃO TENHA OU NÃO TENHA NENHUM ERRO
+EXEMPLO DE RESPOSTA
+
+Bom dia, consulta realizado do dia 01/04/2021 ate a data atual 15/04/2021. 
+
+079693  ''  não existe pendencias  ''
+079618  "  não teve venda nesse período desse produto "
+525588  "  não teve venda nesse período desse produto "
+475891  ''  não existe pendencias  ''
+402681  "  não teve venda nesse período desse produto "
+451622  ''  08/04/2021 não existe pendencias venda processada corretamente''
+522180  ''  09/04/2021 não existe pendencias venda processada corretamente'' 
+
+
+Qualquer duvida estamos a disposição, oriento abrir um chamado junto a segurança.
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+VALOR TOTAL DA NOTA PELO SOMATÓRIO DOS ITENS:
+O VALOR TOTAL DA NOTA DEVE SER EQUIPARADO A ESTE SOMATÓRIO NA COPRDD00
+
+
+QUANDO A NOTA DE VENDA FOR FEITA PELO CD O PRIMEIRO PROCEDIMENTO E O SUFICIENTE -- PERGUNTAR A JAMESSON
+SELECT SUM(PRCVEN  + VALIPI + VALSEV + VALFRT + VALICMSBT + VALSGR + VALOUTDSP - VALDCT)
+FROM COPRDD02
+WHERE 1=1
+AND IDFEMP = '0080'
+AND NUMDOC = 'U01003283'
+;
+--CABEÇALHO DAS PARCELAS NA NOTA
+SELECT *
+FROM COTITD01
+WHERE 1=1
+ AND CODCLI = '778016'
+  AND NOTFIC = 'U01003283'
+  ;
+  
+--PARCELAS DA NOTA
+--OBS: ALTERAMOS O VALOR DO TÍTULO E DEPOIS DE TRANSMITIR A NOTA VOLTAMOS PARA O VALOR ANTERIOR.
+SELECT *
+FROM COTITD02
+--UPDATE COTITD02 SET  VALTIT = 147.54 
+WHERE 1=1
+ AND NUMTITRCB = '03110821'
+  AND IDFEMP = '0080'
+  
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+PROCEDIMENTO PARA NOTA DE DEVOLUÇÃO GERADA PELO CLIENTE IGUAL A NOTA DE SAÍDA
+
+PEDIR PARA O SOLICITANTE REALIZAR O PROCEDIMENTO DE DEVOLUÇÃO NA TELA COPED143
+QUANDO APRESENTAR O ERRO, DÁ OK E EXECUTAR O UPDATE:
+
+SELECT *
+FROM COPEDD09
+--UPDATE COPEDD09 SET  IDFEMP = 'X105'
+WHERE 1=1  AND IDFEMP = '0105'  AND ANO = '21'  AND NUMPED = '001522';
+
+mas não precisa comitar
+deixa a transação em aberto
+ai tu volta pra tela e confirmar a nota
+depois que a nota for confirmada é só desfazer o update
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+Ao solicitar a devolução do produto em loja, na opção de informar o numero de serie, quando digitamos o numero de 
+serie informa que o numero ja esta cadastrado e não conseguimos continuar com a operação.
+
+COMO UMA DEVOLUÇÃO É UMA ENTRADA DEVEMOS DELETAR O SERIAL DA COSERD01
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+fiz a troca do CFOP para conseguir dar entrada na nagem.
+
+SELECT *
+FROM CONOTD0V
+--UPDATE CONOTD0V SET  CODFIC = '2102'
+WHERE 1=1
+
+ AND IDFEMP = '0001' AND NOTFIC = 'U01280634'
+;
+---cfop--2102
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+para imprimir a DAV sem uma nota para venda cd vc tem que pegar o link a baixo trocar o 'davs02639021' para o numero da dav que for fornecida
+tem que mudar a parte 'lj000103' para o numero da loja e colocaar no navegador e pronto se a dav existir o link aparece a dav caso não exista 
+a tela vai ficar em branco. 
+
+tela do conagem para imprimir a dav coped3a6
+
+http://10.1.0.151:8092/vm_nagem_ws/pdf.jsp?arquivo=c:\VisualStore\lj000103\nagem\ano2021\mes06\davs02639021.pdf
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+usa as buscas abaixos para ver fornecedores cadastrados para as lojas.
+
+
+
+
+SELECT *
+FROM COEMPD00
+WHERE 1=1
+ AND IDFEMP = '0030'
+ 
+;
+
+SELECT *
+FROM COFNCD00
+WHERE 1=1
+--AND IDFEMP = '0030'
+
+ AND CODFNC = '076821'
+ORDER BY CODFNC DESC
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+XML DA NOTA 
+QUANDO ESTIVER COM ERRO NA VALIDAÇÃO DE UM XML PELA TELA DO CONAGEM COPED2I0 
+PEGAR O NUMERO DA NOTA E DELETAR DA TABELA ''CONOTD0V'' PARA QUE A PESSAO POSSA IMPORTAR NOVAMENTE O XML DA NOTA 
+PARA O SISTEMA EXEMPLO ABAIXO 
+ 
+SELECT *
+FROM CONOTD0V
+--DELETE FROM CONOTD0V 
+WHERE 1=1
+ AND NOTFIC = 'U01000121' AND IDFEMP = '0002'
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+fechamento de loja caso a loja abra o conagem e apareça para por uma data de fechamento ir na tabela 
+COCNTD00 E COLOCAR O DAT PARA A DATA DO DIA, EXP:.
+
+SELECT *
+FROM COCNTD00
+--UPDATE COCNTD00 SET  DATPRE = '20210805'-- A DARA TEM QUE SER ALTERADA PARA O DIA ATUAL.
+WHERE 1=1
+ AND IDFEMP = '0101'
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+duplicidade de numero de serie quando vai faturar o pedido, o pedido vai estar para ser conferido no ws
+entrar em contato com a loja e verificar se o erro e de duplicidade de serial feito isso ir na CONOTD0E
+verificar se o campo NUMPED e o campo DATTEMS estiverem vazio e o campo NUMSER estiver com o numero de serie 
+e so dar um update na CONOTD0E no campo de IDFEMP 
+
+desta forma 
+SELECT *
+FROM CONOTD0E
+--UPDATE CONOTD0E SET IDFEMP = 'X....' -- TEM QUE COLOCAR UM X OU UM I NO COMEÇO DO IDFEMP PARA QUE O SISTEMA NÃO INXERGUE A Loja
+WHERE 1=1
+AND IDFEMP = '0010'
+AND NUMSER = ''
+;
+
+------------------------------------------ 
+----------------------------------------------
+----------------------------------------------
+
+(((((PROCEDIMENTO PARA AUTARQUIAS FEDERAIS)))))
+
+--- VERIFICAR SE O PEDIDO ESTÁ FATURADO E SE A FATURA JÁ ESTÁ NO SAP EM COSAPD05;
+
+--- CASO NÃO ESTEJA REALIZAR O PROCEDIMENTO SEGUINTE: 
+
+--- NO DELPHI, abrir CONAGEM > FONTE > pCONAGEM6.dpr > uCOPED122 (MODULO PARA FATURAMENTO DE PEDIDO);
+
+--- CTRL + F > glSistemaSAP (// 2011-10-06 16h35 - tiberio.lima -> Exportação para o SAP) > COLOCAR BREAKPOINT > F9 (COMPILAR);
+
+--- FATURAR O PEDIDO NA COPED122 DE ACORDO COM A LOJA E O PEDIDO;
+
+--- VAI PARAR NO BREAKPOINT > CELECIONAR NO CÓDIGO 'glSistemaSAP' > CTRL + F7 > MUDAR DE TRUE PARA FALSE > F9 (PARA CONTINUAR O PROCESSO);
+
+
+- EXPORTASAP PARA GERAR O EXCEL:
+
+--- NO DELPHI > ABRIR O EXPORTASAP > FONTES > pEXPORTASAP.dpr > CTRL + F12 > uSAPLANCAMENTO;
+
+--- CTRL + F - VALIDAR > PROCURAR A LINHA DE CÓDIGO COMENTADA E DESCOMENTAR:
+
+//      if ( msStrLst.Count > 0 ) and ( Abs( mnResto ) > mnValorDespresavel ) then
+//        msStrLst.SaveToFile( 'C:\TEMP\DEBBUG_VALIDAR_' + FormatDateTime( 'YYYYMMDDHHNNSS',Now ) + '.CSV' );
+
+-- F9 (COMPILAR) > EXPORTAR DOCUMENTO > PREENCHER OS DADOS NECESSÁRIOS > EXPORTAR > VAI DAR ERRO NO DELPHI7, DAR OK E CLICAR F9;
+
+-- VAI GERAR UM ARQUIVO EXCEL "DEBBUG" NA PASTA (C:/TEMP);
+
+-- ABRIR O ARQUIVO E EXECUTAR A FORMULA:  =H7 - SOMA(H3:H6) + VALOR DO DESCONTO NA COTITD02.VALDCT;
+
+-- O RESULTADO DO EXCEL DEVE SER INSERIDO NA COTITD02.VALTIT
+
+-- COMENTAR A LINHA QUE FOI DESCOMENTADA ACIMA PARA SUBIR SEM GERAR UM NOVO ARQUIVO.
+
+-- EXPORTAR NOVAMENTE;
+
+-- DEVE EXPORTAR COM SUCESSO;
+
+OBS: DEVE COMENTAR O TREXO DE CÓDIGO DE DELPHI NOVAMENTE;
+
+foi feito o mesmo procedimento e descoberto uma nota parte do processo na tabela cotitd02 quando o valor estiver parcelado tem que somar o desconto junto com o 
+valor total do titulo e depois dividir pela quantidade de parcelas que se encontram na tabela cotitd02 o valor que aparecer na divisão e distribuido pelos titulos.
+
+TABELAS PARA CONSULTA
+
+SOSAPD05
+COTITD01
+COTITD02
+COPEDD00
+
+ERRO NO CONAGEM:
+
+Desc:
+Atenção! Ocorreu um erro na geração desta nota. Tente novamente ou contate o setor de TI !
+
+Houve um erro na geração do lançamento para o SAP. Pedido: 744102/21
+na Empresa: 0001. Favor entrar em contado com o T.I. ERRO: Erro ao gerarLancamento. Mensagem: Erro ao atribuir Lancamento. Lancamento: Sequencial de Lancamento: 2748680
+Tipo Operação: VD
+Tipo Documento: DR
+IdfEmp: 0001
+Referência: NFS U01703495
+Data Emissão: 20210915
+Pessoa: C091472
+NSU: CPR#
+RO:
+Texto Lançamento: 0388-RICARDO BEZERRA
+.Mensagem: Erro ao validar Lançamento Sequencial de Lancamento: 2748680
+Tipo Operação: VD
+Tipo Documento: DR
+IdfEmp: 0001
+Referência: NFS U01703495
+Data Emissão: 20210915
+Pessoa: C091472
+NSU: CPR#
+RO:
+Texto Lançamento: 0388-RICARDO BEZERRA
+. Total de Débito: '2709,80' Total de Crédito: '2700,89' . Mensagem: Lançamento com diferença maior que R$ 2,00
+FATCOMMIT
+Ult.Lin.Erro: FATCOMMIT
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+ERRO 610 QUE IMPEDE A TRANSMISSÃO DA NF DO PEDIDO
+
+Verificar se tem serviço, garantia, seguro de quebra, roubo, Dr. Nagem, desconto ou qualquer outro lançamento que possa influenciar o valor da venda.
+Após essa verificação, observar se nas tabelas COPRDD00 e na COPRDD02 nos campos correspondentes ao serviço se estão preenchidos com o valor devido.
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+CHECK LIST DE ABERTURA DE Loja
+
+1- Víncular loja nova a outra de mesma praça para fazer vendas entre lojas.
+2- Configurar rotina de fechamento de loja para abastecimento da mesma.
+4- Realizar espelhamento de promoções de outra loja de mesma praça.
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+
+
+
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+
+
+
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+para verificar o erro 815 da sefaz pegar o XML da nota 
+da pasta \\10.1.0.169\data\NFE\FATURA para fazer a busca nesta pasta basta ir na tabela conotd0m pegar a chave entrar nas pastas 
+e colar a chave e pegar o codigo do xml pelo bloco de notas jogar neste link https://validador.nfe.tecnospeed.com.br/ feito isso 
+esse link ira te passasr todas os valores que estiverem errados na nota valores esses de cada produto indivudualmente posto dentro 
+da nota feito isso ir no delphi 7 no coped381 apos entrar no 381 apertar ctrl + f12 colocar na busca uNGNFE_DAO_v400 buscar pelo linha 
+de codigo  2240 que vai estar preenchida com  
+
+Self.XML.InfNFe.Det.Items[miIndice].Imposto.ICMSUFDest.vICMSUFDest    := StringReplace(Trim(FormatCurr('##0.00', mnVICMSUFDest)),',','.',[rfReplaceAll]);  //Valor do ICMS Interestadual para a UF de destino
+
+feito isso apertar ctrl + f7 dentro da variavel mnVICMSUFDest e trocar pelo oque esta posto no validador de nfe o valor do produto vai se repetir
+para cada produto dentro da nota.
+
+campo vICMSUFDest
+
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+resolução mandar um e-mail para a incomm e esperar a tratativa.
+suporte@incomm.com.br
+
+exemplo de e-mail 
+Boa tarde,
+
+Estamos com dificuldade de realizar vendas, o sistema nos retorna a mensagem "Suspected Fraud", 
+por isso gostaria de saber se existe algum tipo de instabilidade no vosso serviço.
+
+No aguardo.
+
+Att.
+
+[16:22, 02/06/2021] : Não Foi Possivel Finalizar a Venda!
+Ocorreu o Seguinte Erro
+
+Suspected Fraud
+Ult.Lin.Erro: 
+Componente atual: fCOPED3A9.btnGravar
+------------------------------------
+Pilha do erro:
+[16:22, 02/06/2021] : [Módulo: COPED3A9]
+Não Foi Possivel Finalizar a Venda!
+Ocorreu o Seguinte Erro
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+CORREÇÃO DE FAIXA DE CEP
+
+SELECT *
+FROM COTABD0U
+WHERE 1=1  AND CODESTUNA IN '00041' AND '87203312' BETWEEN ENDPSTINI AND ENDPSTFIM;
+
+SELECT *
+FROM COTABD0A
+WHERE 1=1  AND CODCID IN ('05508','10409')  AND CODESTUNA = '00041';
+
+ SELECT * 
+ FROM NAGCEP2.LOG_LOCALIDADE A                                                       
+ LEFT JOIN NAGCEP2.LOG_FAIXA_LOCALIDADE B ON B.LOC_NU = A.LOC_NU                     
+ LEFT OUTER JOIN COTABD0U U                                                          
+ ON ( ( A.CEP IS NOT NULL AND A.CEP BETWEEN U.ENDPSTINI AND U.ENDPSTFIM ) OR               
+ ( A.CEP IS NULL AND ( B.LOC_CEP_INI BETWEEN U.ENDPSTINI AND U.ENDPSTFIM ) OR                            
+ ( B.LOC_CEP_FIM BETWEEN U.ENDPSTINI AND U.ENDPSTFIM ) ) ) 
+ WHERE 1=1 
+ AND A.LOC_IN_TIPO_LOC = 'M' 
+ AND A.UFE_SG = :EST 
+ --AND U.CODCID = :CODCID 
+  AND LOC_NO like 'Indi%'
+ WITH NC;
+ 
+ INSERT INTO NAGCEP2.LOG_FAIXA_LOCALIDADE VALUES('6167',87235000,87239999) ;
+ 
+ SELECT * FROM  NAGCEP2.LOG_FAIXA_LOCALIDADE  
+ --UPDATE NAGCEP2.LOG_FAIXA_LOCALIDADE SET  LOC_CEP_FIM = '87214999'
+ WHERE LOC_NU = 6167;
+ --5959 	87200001 	87212999 
+
+
+SELECT *
+FROM COTABD0U
+--UPDATE COTABD0U SET  ENDPSTINI = '87235000', ENDPSTFIM = '8723499'
+WHERE 1=1  
+AND CODESTUNA = '00041'  
+AND CODCID IN(13007);
+
+-----------------------------
+
+TABELAS UTILIZADAS:
+
+COTABD0U --INTERVALO CEP DOS MUNICIPIOS
+COTABD0A--TABELA DE MUNICIPIOS
+
+Faixa de CEP ou UF/Localidade:
+https://buscacepinter.correios.com.br/app/faixa_cep_uf_localidade/index.php
+
+Busca por Endereço ou CEP:
+https://buscacepinter.correios.com.br/app/endereco/index.php
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+PROCEDIMENTO PARA FECHAR OU CONCLUIR CHAMADO NO CONAGEM
+
+PROBLEMA - CAMPO SÓ COMPORTA 31900 CARACTERES
+
+SELECT LENGTH(HSTCHM), HSTCHM
+FROM NAGTARC.RCCHMD00 
+WHERE NUMCHM = 1186630; - COLOCAR O NÚMERO DO CHAMADO
+
+PARA FAZER ESSE PROCEDIMENTO VOCÊ DEVE USAR O NOTEPAD++
+
+1º COPIAR O TEXTO DO CAMPO HSTCHM E COLAR NO NOTEPAD++
+
+AND 00001 = 32215
+
+2º DIMINUIR OS SEPADORES DE CONVERSA, USANDO A FUNÇÃO SUBSTITUIR
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X
+
+3º REMOVER AS LINHAS DUPLICADAS CONSECULTIVAS.
+ 
+ - SELECIONA TODO O TEXTO
+ - EDITAR > OPERAÇÕES COM LINHAS
+ - REMOVER AS LINHAS DUPLICADAS CONSECULTIVAS
+ 
+4º EXECULTAR O UPDATE ABAIXO COLOCANDO O TEXTO ENTRE AS ASPAS
+
+SELECT *
+FROM NAGTARC.RCCHMD00 
+--UPDATE NAGTARC.RCCHMD00 SET HSTCHM = 'COLOCAR O TEXTO EDITADO'
+WHERE NUMCHM = 1182006;
+
+FIM DO PROCEDIMENTO.
+
+PARA MAIS DETALHES, ERRO QUE APARECE NO CONAGEM:
+
+Desc: 
+Erro ao efetivar conclusão do chamado!
+
+General SQL error.
+[IBM][iSeries Access ODBC Driver]Column 1: CWB0111 - A buffer passed to a system call is too small to hold return data
+[IBM][iSeries Access ODBC Driver]Column 1: Character data right truncation.
+Ult.Lin.Erro: 
+Componente atual: fGRSAC200.btnConcluir
+------------------------------------
+Pilha do erro: 
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+Bom dia!
+Ao tentar lançar uma devolução ruim para o produto 523895, o sistema informa que não possui saldo para devolução.
+NF 664/21 Empresa: 111 Sh. Parque.
+
+Solicito ajuda. Obrigada!
+
+FOI IDENTIFICADO QUE TINHA UM CUPOM DE PDV (STANOTFIC = 'V') COM O MESMO NÚMERO DA NOTA, PARA TRATAR, DAMOS UM UPDATE
+NO CUPOM ALTERANDO O NÚMERO DA EMPRESA EXEMPLO: DE '0111' PARA 'L111' E COM ISSO A ROTINA COPED141 NÃO VAI PEGAR 
+O CUPOM. DEPOIS VOLTAR PARA O CÓDIGO DA EMPRESA 'IDFEMP' CORRETO.
+
+SELECT *
+FROM CONOTD00
+--UPDATE CONOTD00 SET  IDFEMP = 'L111'
+WHERE 1=1
+AND IDFEMP = '0111'
+ AND NOTFIC = 'U01000664'
+  AND STANOTFIC = 'V'
+  
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+LINK PARA PEGAR A DAV:
+
+http://10.1.0.151:8092/vm_nagem_ws/pdf.jsp?arquivo=c:\VisualStore\lj000062\nagem\ano2021\mes07\davs02351721.pdf
+
+COLOCAR A LOJA E O NÚMERO DO PEDIDO
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+1.) Acessar via TS o servidor Ip: 10.1.0.120 e 
+2.) Informar usuário: nagemcorp\vortice.suporte e senha: V0rt1c3N@g3m
+3.) Verificar se a aplicação Servidor de Processos está rodando... (Duas instâncias) 
+  3.1.) Neste caso, clique no botão OK da mensagem, assim o Servidor de Processos encerrará.
+  3.2.) Execute o Servidor de Processos Novamente (ServProcesso).
+  3.3.) Certifique-se e garanta que no Gerenciador de Tarefas do Windows exista DOIS processos do executável 
+  do Servidor de Processos rodando com o nome ServProcesso_1.exe e ServProcesso_2.exe
+	provavelmente estará parada e exibindo uma mensagem de erro.
+	AGORA TEMOS DOIS SERVIDORES DE PROCESSOS QUE DEVEM ESTÁ RODANDO SIMULTANEAMENTE:
+	SERVIDOR DE PROCESSOS 1 --> Executar as apenas as tarefas INTERNAS do CRM em FILA de execução.
+	SERVIDOR DE PROCESSOS 2 --> Executa as apenas as tarefas de INTEGRAÇÃO com sistemas NAGEM (ESSE, SE PARADO, ACUSA NO XMON NAGEM)
+
+Logo, quem acessar o IP do Servidor de Processos (10.1.0.20), se precisar reiniciar o servidor, deve logar com o login “vortice.suporte" 
+e atentar em garantir a execução do “Servidor de Processos 01” e “Servidor de Processos 02”
+
+
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+Cancelamento de RPS não e o setor de desenvolvimento que cancela
+e com o setor fiscal 
+ligar para alimir ou paulo ramal 2202 para o setor fiscal fazer o cancelamento da rps
+
+obs: RPS cancelada mas que ainda aparece como disponível para transmissão apenas deve-se mudar o STATUS dela para que suma da tela.
+Desde que não já tenha sido transmitida para a SEFAZ.
+BY: ADSON FARIAS 15/10/21
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+REBATE SELLOUT
+
+Questionar qual é o Rebate.
+
+Entrar em contato com o solicitante do chamado e informar que já estamos analisando a causa do 
+rebate não ter sido encerrado automaticamente.
+
+Questionadar ao solicitando se o mesmo tem acesso para realizar o fechamento de forma manual.se o solicitante não tiver, perguntar quem do setor tem acesso para finalizar de forma manual e realizar o ajuste.
+
+Solução: Flegar toda a coluna e "desflegar" a opção que está marcada em verde.
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+para fazer cancelamento de pedido B2C no modulo do conagem coped12y (ELA NÃO FUNCIONA NA BUSCA DIRETA)
+
+comentar o trecho no delphi 7 assim que comentar rodar e cancelar que ira funcionar.
+
+   {
+        if ( TPedidoB2CPagamento(objPedido.lstPagamentos[j] ).IDFFRMPTO = 'R' ) and
+           ( TPedidoB2CPagamento(objPedido.lstPagamentos[j] ).STATRA = '1' ) and
+           ( TPedidoB2CPagamento(objPedido.lstPagamentos[j] ).URLCPT <> '' ) then begin
+
+          try
+            stlRequest  := TStringList.Create;
+            stlResponse := TStringList.Create;
+            //sURLCaptura
+            //IdHTTP1.Request.
+            msUrl := TPedidoB2CPagamento(objPedido.lstPagamentos[j] ).URLCPT;
+            msUrl := StringReplace( msUrl, 'capture','void',[rfReplaceAll] );
+
+            stlRequest.Add('url='+msUrl);
+            msGet := IdHTTP1.Post( sURLCaptura, stlRequest );
+
+            if ( IdHTTP1.ResponseCode <> 200 ) then
+              raise Exception.Create('Não foi possível solicitar estorno/cancelamento dos cartoes!' + #13 + 'Erro: ' + IdHTTP1.ResponseText);
+
+            stlResponse.Text := msGet;
+
+            if not ( ( ( stlResponse.IndexOfName('Code')   >= 0 ) and ( stlResponse.Values['Code'] = '308' ) ) or
+                     ( ( stlResponse.IndexOfName('Code')   >= 0 ) and ( stlResponse.Values['Code'] = '309' ) ) or
+                     ( ( stlResponse.IndexOfName('Status') >= 0 ) and ( stlResponse.Values['Status'] = '2' ) ) or
+                     ( ( stlResponse.IndexOfName('Status') >= 0 ) and ( stlResponse.Values['Status'] = '10' ) ) ) then
+              raise Exception.Create('Não foi possível capturar o débito no cartão de crédito!' + #13 + 'Retorno: ' + msGet );
+
+
+          finally
+            stlRequest.Free;
+            stlResponse.Free;
+          end;
+
+        end;  }
+		
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------		
+		
+SELECT *
+FROM COCNTD00
+--UPDATE COCNTD00 SET NOVDATPRE = '20211005', DATVALRFR = '20211005', DATPRE = '20211005' --MODIFICAR PARA A DATA ATUAL.
+WHERE 1=1
+ AND IDFEMP IN ('0118','0119')
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+Tabela COPRDD0C, tabela de produtos do kit. Na devolução do kit (módulo COPED165 do CONagem), o módulo não aceita o código do kit como entrada, pois o kit pode estar vencido, para
+devolução deve-se digitar os códigos dos itens que compõem o kit.
+
+SELECT *
+FROM COPRDD0C
+WHERE 1=1
+-- AND CODPRD = '543390'
+   AND CODKIT = '543390'
+  AND IDFEMP = '0015'
+;
+By: Adson Farias
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+Erro: Registro não encontrado na C100. Loja: XXXX Data: XXXXXXXX Pdv: XXX Cupom: XXXXXX
+Adicionado na query de cupons os seguintes joins:
+
+VALIDA SE O REGISTRO SE ENCONTRA NA COPRDD02
+
+LEFT OUTER JOIN NAG0001.COPRDD02 AS A 
+            ON  A.IDFEMP = LPAD( NF.LOJA,04,'0' ) 
+            AND A.DATTRA = TO_CHAR( NF.DT_DOC,'YYYYMMDD' ) 
+            AND SUBSTR( A.NUMDOC,02,08 ) = LPAD( NF.PDV,02,'0' ) || LPAD( NF.NUM_DOC,06,'0' )
+			
+VALIDA SE O REGISTRO SE ENCONTRA NA CONOTD00
+
+LEFT OUTER JOIN NAG0001.CONOTD00 AS B 
+            ON  B.IDFEMP = LPAD( NF.LOJA,04,'0' ) 
+            AND B.DATEMS = TO_CHAR( NF.DT_DOC,'YYYYMMDD' ) 
+            AND SUBSTR( B.NOTFIC,02,08 ) = LPAD( NF.PDV,02,'0' ) || LPAD( NF.NUM_DOC,06,'0' )
+            AND B.NOTFIC = A.NUMDOC
+
+CRIA UMA COLUNA NO SELECT PARA APRESENTAR O RESULTADO DE UMA BUSCA EM AMBAS AS TABELAS
+
+			CASE 
+                 WHEN B.NOTFIC IS NULL THEN 'CONOTD00 ERROR'
+                 WHEN A.NUMDOC IS NULL THEN 'COPRDD02 ERROR'
+                 ELSE 'VALIDADA NA C100'
+                 END AS VALIDACAO_NOTA
+
+CASO O RESULTADO DO CAMPO VALIDACAO_NOTA SEJA VALIDADA NA C100 USAR O UPDATE DA QUERY PARA MUDAR O STATUS DE ER PARA PR 
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+Erro de preço/valor de produto em loja.
+
+O preço que consta na COCNS130 no campo Prç. Loja é alimentado sempre a meia noite tendo por base a âncora da loja, essa configuração de ancorajem encontra-se em
+COEMPD00.IDFEMPPRC, caso a loja não tenha ancoragem em CD algum deverá constar o próprio número da loja. A meia noite o servidor envia todas as atualizações de preços
+de produtos para as lojas que estão vínculadas em sua ancoragem, log desse envio encontra-se no servidor SINAGEM em C:\Nagem\SINAGEM\Logs (nome do arquivo EXP_(DATA))
+essa configuração de envio as lojas está na interface SINagem aba Exportação.
+
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+COPED1P0 DO CONAGEM PARA NOTA QUE NÃO ESTÃO APARECENDO NA QUERY OUTPUT SE A NOTA ESTIVER COM O STATUS W VERIFICAR FIREZILA PARA PODER TROCAR O TIPO DE ARQUIVO PARA TXT O ARQUIVO
+VAI ESTAR PREENCHIDO COMO FINALIZADO PEDIR AJUDA A JAMESSON.
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+PARA RESOLVER PRODUCT CODE INVÁLIDO TEM QUE IR NA TABELA 
+COGARD03 E CHECAR O CAMPO PNOGAREXP SE ESTIVER VAZIO PEGUE A INFORMAÇÃO COM O SOLICITANTE
+E PREENCHA O CAMPO PNOGAREXP QUE E O CAMPO DO PRODUCT CODE.
+--ANTES DE QUALQUER COISA O MESMO TEM QUE TER FALADO COM O SETOR FINANCEIRO E CASO O SETOR NÃO CONSIGA AI SIM FAZAER O PROCEDIMENTO.
+
+
+MENSAGEM DE ERRO PRODUCT CODE INVALIDO, CONTATE O SETOR FINANCEIRO...
+
+SELECT *
+FROM COGARD03
+--UPDATE COGARD03 SET  PNOGAREXD = 'SIDE'
+WHERE 1=1
+ AND NUMBHT = '190032048020423'
+ AND ANO = '21'
+;
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Certificado Transmitido com Erro - "FaultMessage":"Certificate in use",
+PARA RESOLVER ESSE PROBLEMA TEM QUE VERIFICAR NA COLOGD00 E VER SE FOI OU NÃO TRANSMITIDO
+SE FOI TEM QUE MUDAR O STATUS PARA '1' E ZERAR O CAMPO DE DESCRIÇÃO DE ERRO SEGUE O EXEMPLO ABAIXO
+
+
+SELECT *
+FROM COGARD03
+--UPDATE COGARD03 SET  STAEXP = '1', COTMSGEXP = '' 
+WHERE 1=1
+ AND NUMBHT IN ('190067048005442')
+ AND ANO = '21'
+;
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ASSIM QUE A PESSOA INTRAR EM CONTATO ELA MESMA VAI IDENTIFICAR O TIPO DE SERVIÇO OU GARANTIA E AMODIFICAÇÃO VAI DEPENDER 
+SE E SERVIÇO OU GARANTIA SE FOR SERVIÇO TEM QUE SER FEITA ESSA MODIFICAÇÃO A BAIXO COM O ERRO.
+Certificado Transmitido com Erro - "FaultMessage":"Certificate in use",
+
+SELECT *
+FROM COSEVD05
+--UPDATE COSEVD05 SET  STAEXP = '1', COTMSGEXP = ''
+WHERE 1=1
+  
+  AND NUMBHT = '190067048009931'
+
+;
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+Geração de DAV com trocafone
+
+ao gerar uma DAV com valor de resgate de trocafone o valor de abatimento não irá na DAV, lá só é emitido o valor que não será pago
+nem com cartão, nem com voucher, nem com dinheiro, o voucher deverá ser passado na finalizadora no momento da compra para que haja o desconto.
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+erro: REGISTRO NÃO ENCONTRADO NA C.100 (C100)
+
+Este erro é retornado por conta de um exception na query de cupons, a maneira de contornar esse fake error foi adicionada a query fazendo uma comparação
+dos dados encontrados na VM_INTEGRA.ST_CUPOM fazendo um left outer join com a COPRDD02 bem como a CONOTD00.
+
+LEFT OUTER JOIN NAG0001.COPRDD02 AS A --By: Nairton 15/10/21
+            ON  A.IDFEMP = LPAD( NF.LOJA,04,'0' )
+            AND A.DATTRA = TO_CHAR( NF.DT_DOC,'YYYYMMDD' )
+            AND SUBSTR( A.NUMDOC,02,08 ) = LPAD( NF.PDV,02,'0' ) || LPAD( NF.NUM_DOC,06,'0' )
+LEFT OUTER JOIN NAG0001.CONOTD00 AS B --By: Nairton 15/10/21
+            ON  B.IDFEMP = LPAD( NF.LOJA,04,'0' )
+            AND B.DATEMS = TO_CHAR( NF.DT_DOC,'YYYYMMDD' )
+            AND SUBSTR( B.NOTFIC,02,08 ) = LPAD( NF.PDV,02,'0' ) || LPAD( NF.NUM_DOC,06,'0' )
+            AND B.NOTFIC = A.NUMDOC
+			
+No select foi adicionado um CASE para indicar quando o problema for a falta da informação na CONOTD00 ou na COPRDD02.
+
+ CASE WHEN B.NOTFIC IS NULL THEN 'CONOTD00 ERROR'
+                 WHEN A.NUMDOC IS NULL THEN 'COPRDD02 ERROR'
+                 ELSE 'VALIDADA NA C100'
+                 END AS VALIDACAO_NOTA
+				 
+	By: Nairton, Adson
+	Date: 15/10/2021
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+FACILITADOR PARA ACHAR O CUPOM NA TROCA FONE (QUERY TROCA FONE).
+
+SELECT A.IDFEMP, C.CODPRD, A.DATICS AS DATEMS, A.STARGT, A.IDFTRCFNE AS VCH_TRF, A.COTLOG AS LOGTRF
+FROM COSEVD0H AS A
+     INNER JOIN CODAVD05 AS B ON  ( A.IDFEMP    = B.IDFEMP    )
+                              AND ( A.NUMSQCRGT = B.NUMSQCRGT )
+                              AND ( A.DATICS    = B.DATEMS    )
+     INNER JOIN CODAVD01 AS C ON  ( B.IDFEMP    = C.IDFEMP    )
+                              AND ( B.NUMPED    = C.NUMPED    )
+                              AND ( B.DATEMS    = C.DATEMS    )
+WHERE 1=1
+AND A.IDFEMP = '0067'
+AND A.IDFTRCFNE = '7493988'
+AND A.DATICS = '20211110'
+
+;
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
+
+---------------------------------------------- 
+----------------------------------------------
+----------------------------------------------
